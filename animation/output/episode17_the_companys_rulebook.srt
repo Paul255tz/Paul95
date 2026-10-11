@@ -1,0 +1,208 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,056
+Narrator: Episode 17. The Company's Rulebook
+
+3
+00:00:10,756 --> 00:00:14,201
+Nia: Safari Solar Limited exists. So what are its rules?
+
+4
+00:00:14,251 --> 00:00:25,893
+Professor Lex: Its constitution. Under the Companies Act, that means the articles of association, plus certain resolutions and agreements that affect them, such as special resolutions.
+
+5
+00:00:25,943 --> 00:00:33,407
+Professor Lex: The memorandum used to matter a lot. Now it is just a historical snapshot of who formed the company.
+
+6
+00:00:33,457 --> 00:00:39,382
+Professor Lex: And a modern company's objects are unrestricted, unless its articles restrict them.
+
+7
+00:00:42,682 --> 00:00:50,080
+Professor Lex: The articles bind the company and its members as if each had signed them. It is a special statutory contract.
+
+8
+00:00:50,130 --> 00:00:58,896
+Professor Lex: Members are bound to the company. In Hickman's case, a member had to take a dispute to arbitration, as the articles required.
+
+9
+00:00:58,896 --> 00:01:06,073
+Professor Lex: The company is bound to its members. In Pender against Lushington, a member could enforce his right to vote.
+
+10
+00:01:06,073 --> 00:01:13,486
+Professor Lex: And members are bound to each other, as in Rayfield against Hands, where directors had to buy a member's shares.
+
+11
+00:01:13,486 --> 00:01:25,574
+Professor Lex: But the articles do not bind the company to outsiders, or to members in another capacity. In Eley's case, a solicitor named in the articles could not enforce his appointment.
+
+12
+00:01:25,724 --> 00:01:31,152
+Kito: So writing my job title into the articles doesn't protect it. I need a separate contract.
+
+13
+00:01:34,651 --> 00:01:46,467
+Professor Lex: If a company does not register its own articles, the model articles apply automatically, to the extent they are not excluded. There are versions for private and public companies.
+
+14
+00:01:46,517 --> 00:01:54,711
+Professor Lex: They give the directors general authority to manage the business, but members can direct them by special resolution.
+
+15
+00:01:54,711 --> 00:02:03,216
+Professor Lex: They set out how directors take decisions, and how directors are appointed: by ordinary resolution, or by the board.
+
+16
+00:02:03,216 --> 00:02:12,387
+Professor Lex: They deal with shares and distributions. Dividends are declared by ordinary resolution, but never more than the directors recommend.
+
+17
+00:02:12,387 --> 00:02:18,549
+Professor Lex: They cover members' decisions: general meetings, quorum, voting, polls and proxies.
+
+18
+00:02:18,549 --> 00:02:26,187
+Professor Lex: And administrative matters, such as notices, the company seal, and indemnity and insurance for directors.
+
+19
+00:02:29,687 --> 00:02:39,717
+Professor Lex: Articles can be changed by special resolution, a seventy-five percent majority. A copy goes to the registrar within fifteen days.
+
+20
+00:02:39,767 --> 00:02:49,778
+Professor Lex: Some provisions can be entrenched, needing extra conditions to change. But nothing can stop the articles ever being changed, if all members agree.
+
+21
+00:02:49,828 --> 00:02:55,323
+Professor Lex: A member cannot be made to take more shares, or pay more, without written consent.
+
+22
+00:02:55,473 --> 00:03:01,214
+Professor Lex: And the change must be made bona fide, for the benefit of the company as a whole.
+
+23
+00:03:01,264 --> 00:03:14,755
+Professor Lex: In Allen against Gold Reefs, a change giving the company a lien over one member's shares was valid. In Greenhalgh against Arderne Cinemas, the test was the hypothetical individual member.
+
+24
+00:03:14,805 --> 00:03:25,944
+Professor Lex: Expelling a competing member was allowed in Sidebottom. But forcing out a minority without good reason, in Brown against British Abrasive Wheel, was not.
+
+25
+00:03:26,094 --> 00:03:34,441
+The Auditor: And remember, a valid change can still breach an outside contract. In Southern Foundries against Shirlaw, the company had to pay damages.
+
+26
+00:03:37,941 --> 00:03:49,204
+Professor Lex: In the past, a company acting outside its objects acted ultra vires, beyond its powers, and the contract was void, as in Ashbury Railway against Riche.
+
+27
+00:03:49,254 --> 00:03:55,793
+Professor Lex: Today, a company's capacity cannot be challenged because of anything in its constitution.
+
+28
+00:03:55,843 --> 00:04:08,439
+Professor Lex: And for a third party dealing in good faith, the directors' power to bind the company is free of any limit in the constitution. Good faith is presumed, and the third party need not check.
+
+29
+00:04:08,489 --> 00:04:18,275
+Professor Lex: Inside the company, though, members can still try to stop a planned act beyond the objects, and directors who exceed their powers may be liable.
+
+30
+00:04:18,425 --> 00:04:22,305
+Nia: So outsiders are protected, and insiders are held to the rules.
+
+31
+00:04:25,805 --> 00:04:28,466
+Kito: I want to call us Safari Royal Bank of Solar!
+
+32
+00:04:28,616 --> 00:04:32,040
+Professor Lex: Not so fast. A company name has rules.
+
+33
+00:04:32,090 --> 00:04:37,106
+Professor Lex: It must end with Limited, or p l c, for a public company.
+
+34
+00:04:37,106 --> 00:04:41,291
+Professor Lex: It cannot be the same as a name already on the register.
+
+35
+00:04:41,291 --> 00:04:49,406
+Professor Lex: It cannot be offensive, or suggest a criminal purpose. And sensitive words, like bank or royal, need approval.
+
+36
+00:04:49,406 --> 00:05:04,883
+Professor Lex: The registrar can order a change within twelve months if the name is too like an existing one, within five years if misleading information was given, and at any time if the name misleads the public about its activities.
+
+37
+00:05:04,883 --> 00:05:16,877
+Professor Lex: A company names adjudicator hears complaints about names taken to exploit another's goodwill. And a business can sue for passing off, as in Ewing against Buttercup Margarine.
+
+38
+00:05:17,027 --> 00:05:25,467
+Professor Lex: To change its name, a company normally passes a special resolution, and receives a new certificate of incorporation.
+
+39
+00:05:25,517 --> 00:05:27,643
+Kito: Fine. Safari Solar Limited it is.
+
+40
+00:05:31,544 --> 00:05:37,757
+The Auditor: Quick check. A solicitor's appointment is in the articles, and he is dismissed. Can he enforce the articles?
+
+41
+00:05:42,807 --> 00:05:46,195
+The Auditor: No. The articles do not bind the company to outsiders.
+
+42
+00:05:46,345 --> 00:05:53,359
+Professor Lex: Eley v Positive Government Security Life Assurance (1876)
+
+43
+00:05:57,308 --> 00:06:00,498
+The Auditor: And what majority is needed to change the articles?
+
+44
+00:06:04,548 --> 00:06:07,484
+The Auditor: Seventy-five percent, a special resolution.
+
+45
+00:06:11,035 --> 00:06:14,054
+Nia: Constitution: articles plus resolutions.
+
+46
+00:06:14,104 --> 00:06:17,392
+Nia: Articles bind company and members, not outsiders.
+
+47
+00:06:17,442 --> 00:06:19,388
+Nia: Model articles fill the gaps.
+
+48
+00:06:19,438 --> 00:06:22,230
+Nia: Change by special resolution, in good faith.
+
+49
+00:06:22,280 --> 00:06:25,666
+Nia: Names: Ltd or plc, no copies, no tricks.
+
+50
+00:06:25,716 --> 00:06:31,913
+Professor Lex: Next time, we follow the money in: shares, share classes, and how new shares are issued.
+
+51
+00:06:31,963 --> 00:06:33,301
+Kito: Shares! Now we're talking!
+
+52
+00:06:33,651 --> 00:06:36,646
+Narrator: Next time: Episode 18. Share Capital.
+

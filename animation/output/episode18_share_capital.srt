@@ -1,0 +1,220 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,582
+Narrator: Episode 18. Share Capital
+
+3
+00:00:10,282 --> 00:00:17,768
+Kito: We need a factory in Arusha! Let's sell new shares. One dollar shares at fifty cents each. Investors will love the bargain!
+
+4
+00:00:17,918 --> 00:00:19,315
+Nia: Is that even allowed?
+
+5
+00:00:19,366 --> 00:00:24,660
+Professor Lex: No. But before we see why, let's sort out the vocabulary of share capital.
+
+6
+00:00:27,960 --> 00:00:32,223
+Professor Lex: Each share has a nominal, or par, value. Say one dollar.
+
+7
+00:00:32,223 --> 00:00:38,215
+Professor Lex: Issued, or allotted, capital is the nominal value of the shares actually issued.
+
+8
+00:00:38,215 --> 00:00:43,181
+Professor Lex: Called-up capital is the part the company has asked shareholders to pay.
+
+9
+00:00:43,181 --> 00:00:46,768
+Professor Lex: Paid-up capital is what they have actually paid.
+
+10
+00:00:46,768 --> 00:00:55,158
+Professor Lex: Uncalled capital is what remains unpaid. Shareholders must pay it if called, which is the limit of their liability.
+
+11
+00:00:55,158 --> 00:01:03,788
+Professor Lex: And reserve capital is uncalled capital that, by special resolution, can only be called if the company is wound up.
+
+12
+00:01:03,938 --> 00:01:13,710
+Professor Lex: Authorised capital, an old upper limit, was abolished, though articles may still set a cap. And market value is simply what a buyer will pay.
+
+13
+00:01:17,210 --> 00:01:21,448
+Professor Lex: Companies can issue different classes of share, with different rights.
+
+14
+00:01:21,498 --> 00:01:32,161
+Professor Lex: Ordinary shares are the equity. They usually carry votes, receive dividends after any preference shares, and share any surplus when the company is wound up.
+
+15
+00:01:32,311 --> 00:01:40,903
+Professor Lex: Preference shares usually get a fixed dividend first. That dividend is presumed cumulative, so missed payments carry forward.
+
+16
+00:01:40,953 --> 00:01:48,168
+Professor Lex: But they usually have no vote, and only get priority for capital on a winding up if the terms say so.
+
+17
+00:01:48,318 --> 00:01:57,935
+Professor Lex: Redeemable shares can be bought back by the company on set terms. A company can only issue them if it also has non-redeemable shares.
+
+18
+00:01:57,985 --> 00:02:04,618
+Amara: Our bank's investment arm would want preference shares: a steady dividend, paid before the ordinary shareholders.
+
+19
+00:02:08,118 --> 00:02:15,734
+Professor Lex: Class rights, such as a preference dividend, cannot simply be changed by the majority of ordinary shareholders.
+
+20
+00:02:15,784 --> 00:02:27,760
+Professor Lex: Follow any procedure in the articles. If there is none, you need the written consent of holders of three-quarters of that class, or a special resolution at a separate class meeting.
+
+21
+00:02:27,810 --> 00:02:37,945
+Professor Lex: Even then, holders of at least fifteen percent of the class who did not agree can apply to court, within twenty-one days, to cancel the variation.
+
+22
+00:02:38,095 --> 00:02:50,384
+Professor Lex: But not everything that affects a class varies its rights. In White against Bristol Aeroplane, issuing new shares diluted a class's voting power, but did not vary its rights.
+
+23
+00:02:53,884 --> 00:03:01,230
+Professor Lex: A company may buy back its own shares, out of distributable profits, so creditors' protection is kept.
+
+24
+00:03:01,279 --> 00:03:07,777
+Professor Lex: Normally the shares are then cancelled. But qualifying shares can instead be held in treasury.
+
+25
+00:03:07,827 --> 00:03:12,072
+Professor Lex: Treasury shares carry no votes, and receive no dividends.
+
+26
+00:03:12,072 --> 00:03:20,116
+Professor Lex: They can later be sold for cash, transferred to an employee share scheme, or cancelled, without a fresh issue process.
+
+27
+00:03:20,116 --> 00:03:26,152
+Professor Lex: When they are cancelled, the company files a return, with an updated statement of capital.
+
+28
+00:03:26,302 --> 00:03:31,032
+Nia: So the company parks its own shares, like stock in a warehouse, ready to reissue.
+
+29
+00:03:34,531 --> 00:03:38,172
+Professor Lex: To allot new shares, directors need authority.
+
+30
+00:03:38,172 --> 00:03:51,692
+Professor Lex: A private company with one class of shares lets directors allot unless the articles forbid it. Otherwise, authority comes from the articles, or an ordinary resolution, for up to five years.
+
+31
+00:03:51,692 --> 00:04:03,878
+Professor Lex: Next, pre-emption rights. New ordinary shares issued for cash must first be offered to existing ordinary shareholders, in proportion to their holdings, for at least fourteen days.
+
+32
+00:04:03,878 --> 00:04:13,464
+Professor Lex: Pre-emption rights can be disapplied by special resolution, and they do not apply to bonus shares, non-cash issues, or employee schemes.
+
+33
+00:04:13,464 --> 00:04:18,484
+Professor Lex: Finally, a return of allotment goes to the registrar within one month.
+
+34
+00:04:18,634 --> 00:04:24,343
+Kito: So Nia and I get first chance to buy any new Safari Solar shares, so we keep our percentages.
+
+35
+00:04:27,844 --> 00:04:40,886
+Professor Lex: A rights issue offers new shares to existing members, in proportion to their holdings, usually below market price. It raises new cash. Members who don't want them can often sell the rights.
+
+36
+00:04:41,036 --> 00:04:50,776
+Professor Lex: A bonus issue gives existing members free, fully paid shares, funded by turning reserves into share capital. No new cash comes in.
+
+37
+00:04:50,926 --> 00:04:56,440
+Nia: So a rights issue fills the bank account, and a bonus issue just reshuffles the balance sheet.
+
+38
+00:04:59,940 --> 00:05:06,034
+Professor Lex: Back to Kito's bargain. Shares cannot be allotted at a discount to their nominal value.
+
+39
+00:05:06,084 --> 00:05:16,305
+Professor Lex: In Ooregum Gold Mining against Roper, one pound shares issued for five shillings were invalid. The allottee must pay the discount, plus interest.
+
+40
+00:05:16,455 --> 00:05:31,296
+Professor Lex: Shares can be paid for in money or money's worth. A private company's directors value non-cash assets honestly. A public company needs an independent valuation, and cannot accept a promise of future work.
+
+41
+00:05:31,446 --> 00:05:39,561
+Professor Lex: Issuing above nominal value is fine. The excess goes to a share premium account, which is treated like capital.
+
+42
+00:05:39,611 --> 00:05:46,896
+Professor Lex: It can only be used to pay up bonus shares, or to write off the expenses and commission of that share issue.
+
+43
+00:05:47,046 --> 00:05:52,195
+Kito: Then we'll issue one dollar shares at a dollar fifty, and credit fifty cents to share premium!
+
+44
+00:05:56,095 --> 00:06:00,736
+The Auditor: Quick check. New ordinary shares are issued for cash. Who must be offered them first?
+
+45
+00:06:05,786 --> 00:06:09,750
+The Auditor: Existing ordinary shareholders, in proportion to their holdings.
+
+46
+00:06:13,700 --> 00:06:16,520
+The Auditor: And which statement about a bonus issue is true?
+
+47
+00:06:20,570 --> 00:06:23,167
+The Auditor: It is funded by capitalising reserves.
+
+48
+00:06:26,717 --> 00:06:29,304
+Nia: Nominal, issued, called, paid, uncalled.
+
+49
+00:06:29,354 --> 00:06:31,472
+Nia: Ordinary versus preference shares.
+
+50
+00:06:31,522 --> 00:06:34,972
+Nia: Varying class rights: seventy-five percent of the class.
+
+51
+00:06:35,022 --> 00:06:37,816
+Nia: Pre-emption, rights issues and bonus issues.
+
+52
+00:06:37,866 --> 00:06:40,653
+Nia: No discount. Premium to share premium.
+
+53
+00:06:40,703 --> 00:06:47,820
+Professor Lex: Next time, the other way to raise money: borrowing, debentures, and charges over the company's assets.
+
+54
+00:06:47,869 --> 00:06:49,407
+Amara: That's where I come in!
+
+55
+00:06:49,757 --> 00:06:52,887
+Narrator: Next time: Episode 19. Borrowing Power.
+
