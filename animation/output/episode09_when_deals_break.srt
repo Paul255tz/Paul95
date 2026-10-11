@@ -1,0 +1,208 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,517
+Narrator: Episode 9. When Deals Break
+
+3
+00:00:10,217 --> 00:00:14,485
+Nia: Our new contract with Hans: spare parts in ten monthly instalments.
+
+4
+00:00:14,535 --> 00:00:21,373
+Hans: Kito, a flood has closed my steel supplier. And frankly, I hear SafariTech is short of cash.
+
+5
+00:00:21,523 --> 00:00:23,214
+Kito: Short of cash? Who told you that?
+
+6
+00:00:23,364 --> 00:00:30,778
+Professor Lex: This is where the provisions common to both seller and buyer come in. Let's start with what makes a breach serious.
+
+7
+00:00:34,078 --> 00:00:43,691
+Professor Lex: A breach is fundamental if it causes such detriment that it substantially deprives the other party of what it was entitled to expect.
+
+8
+00:00:43,741 --> 00:00:52,504
+Professor Lex: Unless the party in breach did not foresee that result, and a reasonable person in the same position would not have foreseen it either.
+
+9
+00:00:52,654 --> 00:01:05,223
+Professor Lex: Why does it matter? Because only a fundamental breach lets the innocent party avoid the contract straight away. Otherwise, it claims damages, or first fixes an extra period.
+
+10
+00:01:05,373 --> 00:01:09,844
+Nia: So a small delay, or a minor defect, won't end the contract on its own.
+
+11
+00:01:13,344 --> 00:01:19,732
+Professor Lex: Sometimes trouble is visible before performance is even due. That's anticipatory breach.
+
+12
+00:01:19,782 --> 00:01:35,303
+Professor Lex: If it becomes apparent that the other side will not perform a substantial part of its obligations, because of a serious deficiency in its ability, or its creditworthiness, or its conduct, a party may suspend its own performance.
+
+13
+00:01:35,303 --> 00:01:42,533
+Professor Lex: It must give notice of the suspension at once, and must carry on if the other side gives adequate assurance.
+
+14
+00:01:42,533 --> 00:01:49,347
+Professor Lex: A seller who has already shipped can stop the goods reaching the buyer, even if the buyer holds the documents.
+
+15
+00:01:49,347 --> 00:02:00,591
+Professor Lex: And if it is clear that a fundamental breach will happen, the party may avoid the contract in advance, giving reasonable notice so the other side can offer assurance.
+
+16
+00:02:00,741 --> 00:02:06,718
+Hans: So I may pause shipments, but I must tell Kito, and restart if his bank guarantees payment.
+
+17
+00:02:06,768 --> 00:02:09,304
+Amara: Our bank can issue that guarantee today.
+
+18
+00:02:12,805 --> 00:02:17,566
+Professor Lex: With ten monthly deliveries, each instalment is judged separately.
+
+19
+00:02:17,616 --> 00:02:24,505
+Professor Lex: If one instalment is a fundamental breach, the buyer may avoid the contract for that instalment.
+
+20
+00:02:24,505 --> 00:02:34,374
+Professor Lex: If it gives good grounds to expect fundamental breaches in future instalments, the buyer may avoid for the future too, within a reasonable time.
+
+21
+00:02:34,374 --> 00:02:42,384
+Professor Lex: And if the deliveries depend on each other, so earlier ones are useless alone, the buyer may avoid for past ones as well.
+
+22
+00:02:42,534 --> 00:02:53,096
+Nia: So if the first delivery is badly defective, the whole deal may go. But if seven are fine and the eighth is faulty, we probably just reject the eighth, and claim damages.
+
+23
+00:02:56,596 --> 00:03:01,664
+Professor Lex: Damages equal the loss, including lost profit, caused by the breach.
+
+24
+00:03:01,714 --> 00:03:10,160
+Professor Lex: But only loss the party in breach foresaw, or ought to have foreseen, as a possible consequence when the contract was made.
+
+25
+00:03:10,160 --> 00:03:20,126
+Professor Lex: If the contract is avoided and the innocent party makes a substitute deal, it can claim the difference between the contract price and the substitute price.
+
+26
+00:03:20,126 --> 00:03:25,430
+Professor Lex: With no substitute deal, it can claim the difference from the current market price.
+
+27
+00:03:25,430 --> 00:03:31,670
+Professor Lex: And it must mitigate. Damages are reduced by any loss it could reasonably have avoided.
+
+28
+00:03:31,820 --> 00:03:37,537
+Kito: So if Hans stops supplying, I buy parts elsewhere, at a sensible price, and claim the extra cost.
+
+29
+00:03:41,037 --> 00:03:48,697
+Professor Lex: If a party fails to pay the price, or any other sum in arrears, the other party is entitled to interest on it.
+
+30
+00:03:48,747 --> 00:03:56,858
+Professor Lex: That is on top of any damages. The Convention does not fix the rate, so it comes from the contract or the applicable law.
+
+31
+00:03:57,008 --> 00:04:01,335
+Amara: That's why our trade contracts always state an interest rate for late payment.
+
+32
+00:04:04,635 --> 00:04:10,535
+Professor Lex: Now Hans's flood. A party is not liable for a failure if it proves four things.
+
+33
+00:04:10,585 --> 00:04:14,589
+Professor Lex: The failure was due to an impediment beyond its control.
+
+34
+00:04:14,589 --> 00:04:18,979
+Professor Lex: It could not reasonably have taken it into account when contracting.
+
+35
+00:04:18,979 --> 00:04:24,067
+Professor Lex: It could not reasonably have avoided or overcome it, or its consequences.
+
+36
+00:04:24,067 --> 00:04:28,573
+Professor Lex: And it gave notice of the impediment within a reasonable time.
+
+37
+00:04:28,823 --> 00:04:37,741
+Professor Lex: If a third party, like Hans's supplier, caused the failure, Hans is exempt only if both he and the supplier would be exempt.
+
+38
+00:04:37,792 --> 00:04:47,087
+Professor Lex: The exemption lasts only while the impediment lasts. And it only blocks damages. The other remedies, like avoidance, remain available.
+
+39
+00:04:47,237 --> 00:04:54,949
+Hans: So I can't be sued for damages because of the flood, but Kito could still end the contract if the delay is fundamental.
+
+40
+00:04:58,849 --> 00:05:03,052
+The Auditor: Quick check. A buyer's damages are limited to loss that the seller did what?
+
+41
+00:05:08,102 --> 00:05:11,735
+The Auditor: Foresaw, or ought to have foreseen, when the contract was made.
+
+42
+00:05:15,684 --> 00:05:20,411
+The Auditor: And if Hans proves the flood is a valid impediment, what does the exemption stop?
+
+43
+00:05:24,461 --> 00:05:26,411
+The Auditor: Only a claim for damages.
+
+44
+00:05:26,561 --> 00:05:30,548
+Professor Lex: The buyer may still avoid the contract, or claim interest
+
+45
+00:05:34,098 --> 00:05:36,531
+Nia: Fundamental breach allows avoidance.
+
+46
+00:05:36,581 --> 00:05:40,250
+Nia: Anticipatory breach: suspend, notify, assurance.
+
+47
+00:05:40,300 --> 00:05:42,521
+Nia: Instalments are judged one by one.
+
+48
+00:05:42,571 --> 00:05:44,935
+Nia: Damages: foreseeable, and mitigate.
+
+49
+00:05:44,985 --> 00:05:47,153
+Nia: Exemption blocks damages only.
+
+50
+00:05:47,203 --> 00:05:54,975
+Professor Lex: Next time: what happens after avoidance, who must look after the goods, and exactly when risk passes to the buyer.
+
+51
+00:05:55,025 --> 00:05:56,875
+Captain Cargo: Finally, an episode about me!
+
+52
+00:05:57,225 --> 00:06:00,553
+Narrator: Next time: Episode 10. Risk on the Water.
+

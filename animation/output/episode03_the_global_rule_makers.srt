@@ -1,0 +1,220 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,084
+Narrator: Episode 3. The Global Rule-Makers
+
+3
+00:00:10,984 --> 00:00:16,492
+Captain Cargo: Ahoy! I'm loaded with SafariTech kits for Mombasa, but I'm stuck in the paperwork queue!
+
+4
+00:00:16,642 --> 00:00:21,243
+Kito: Customs forms, tariffs, different rules in every country. Who sorts all this out?
+
+5
+00:00:21,394 --> 00:00:31,028
+Professor Lex: A whole family of international organisations. None of them is a world government, but each one pushes trade law in the same direction.
+
+6
+00:00:31,078 --> 00:00:32,803
+Nia: Let's meet them one by one.
+
+7
+00:00:36,103 --> 00:00:51,452
+Professor Lex: The United Nations, founded in 1945, aims to keep peace and security, build friendly relations between nations, and promote cooperation on economic and social problems and human rights.
+
+8
+00:00:51,602 --> 00:01:01,115
+Professor Lex: For trade law, its key body is UNCITRAL, the UN Commission on International Trade Law, set up in 1966.
+
+9
+00:01:01,265 --> 00:01:06,058
+Professor Lex: UNCITRAL prepares conventions, model laws and legal guides.
+
+10
+00:01:06,058 --> 00:01:11,624
+Professor Lex: It coordinates the work of other organisations, so they do not duplicate each other.
+
+11
+00:01:11,624 --> 00:01:16,237
+Professor Lex: It encourages more countries to join existing conventions.
+
+12
+00:01:16,237 --> 00:01:22,203
+Professor Lex: It promotes consistent interpretation, by collecting and publishing court decisions.
+
+13
+00:01:22,203 --> 00:01:27,367
+Professor Lex: And it works closely with UNCTAD, the UN trade and development body.
+
+14
+00:01:27,617 --> 00:01:34,895
+Nia: So the Sales Convention, the Hamburg Rules on sea carriage, and the Model Law on arbitration all came from UNCITRAL.
+
+15
+00:01:38,395 --> 00:01:49,964
+Professor Lex: The WTO was formed in 1995, building on the General Agreement on Tariffs and Trade, the GATT, from 1947.
+
+16
+00:01:50,114 --> 00:02:00,176
+Professor Lex: It promotes free trade in goods, services and intellectual property, by removing barriers: tariffs, quotas, import controls and red tape.
+
+17
+00:02:00,326 --> 00:02:06,216
+Professor Lex: It is a forum for negotiating trade agreements, and it administers them once agreed.
+
+18
+00:02:06,216 --> 00:02:09,301
+Professor Lex: It reviews each member's trade policies.
+
+19
+00:02:09,301 --> 00:02:13,453
+Professor Lex: It helps developing countries build their trade capacity.
+
+20
+00:02:13,453 --> 00:02:17,017
+Professor Lex: And it settles trade disputes between member states.
+
+21
+00:02:17,267 --> 00:02:19,067
+Kito: Are Tanzania and Kenya members?
+
+22
+00:02:19,117 --> 00:02:32,584
+Professor Lex: Both have been members since the WTO began in 1995. Regionally, the East African Community customs union goes even further, with a common external tariff.
+
+23
+00:02:36,083 --> 00:02:45,654
+Professor Lex: The ICC is the world business organisation, founded in 1919. It speaks for business, not governments.
+
+24
+00:02:45,804 --> 00:02:51,619
+Professor Lex: It promotes trade, investment and open markets, and free and fair competition.
+
+25
+00:02:51,669 --> 00:02:55,791
+Professor Lex: It fights commercial crime, such as fraud and counterfeiting.
+
+26
+00:02:55,941 --> 00:03:04,855
+Professor Lex: And it writes rules that traders adopt in their contracts: Incoterms for delivery, and the UCP rules for letters of credit.
+
+27
+00:03:05,005 --> 00:03:15,130
+Professor Lex: Its International Court of Arbitration, created in 1923, supervises ICC arbitrations around the world.
+
+28
+00:03:15,280 --> 00:03:17,188
+Captain Cargo: Incoterms! I knew they'd come up!
+
+29
+00:03:20,689 --> 00:03:29,055
+Professor Lex: The OECD, based in Paris, brings together governments to share data and agree better economic policies.
+
+30
+00:03:29,105 --> 00:03:39,350
+Professor Lex: Its standards reach far beyond its members: guidelines for multinational enterprises, an anti-bribery convention, and work on international tax.
+
+31
+00:03:39,600 --> 00:03:52,647
+Professor Lex: UNIDROIT, founded in Rome in 1926, is an independent intergovernmental body. It studies how to modernise and harmonise private law, especially trade law.
+
+32
+00:03:52,797 --> 00:04:01,243
+Professor Lex: Its best-known work is the UNIDROIT Principles of International Commercial Contracts. And it has a three-tier structure.
+
+33
+00:04:01,293 --> 00:04:04,405
+Professor Lex: The Secretariat runs it day to day.
+
+34
+00:04:04,405 --> 00:04:11,206
+Professor Lex: The Governing Council sets policy, draws up the work programme, and supervises the Secretariat.
+
+35
+00:04:11,206 --> 00:04:19,646
+Professor Lex: And the General Assembly is the ultimate decision-maker. It approves the budget and the work programme, and elects the Council.
+
+36
+00:04:23,346 --> 00:04:27,216
+Nia: And when trading nations or companies fall out, which courts step in?
+
+37
+00:04:27,366 --> 00:04:35,035
+Professor Lex: The International Court of Justice in The Hague hears disputes between states only. A company cannot sue there.
+
+38
+00:04:35,085 --> 00:04:42,708
+Professor Lex: Regional courts interpret trade treaties. The East African Court of Justice sits right here in Arusha.
+
+39
+00:04:42,758 --> 00:04:47,971
+Professor Lex: WTO panels settle trade disputes between member governments.
+
+40
+00:04:48,021 --> 00:05:00,932
+Professor Lex: But most commercial disputes go to national courts, or to arbitration, often supervised by bodies like the ICC Court, or the Nairobi Centre for International Arbitration.
+
+41
+00:05:01,082 --> 00:05:03,718
+Kito: Arbitration again. I think that's our next stop.
+
+42
+00:05:07,618 --> 00:05:11,624
+The Auditor: Quick check. Which organisation publishes the Incoterms rules?
+
+43
+00:05:16,674 --> 00:05:19,066
+The Auditor: The International Chamber of Commerce.
+
+44
+00:05:19,216 --> 00:05:26,884
+Professor Lex: The I.C.C. writes rules that traders adopt by contract, like Inco-terms and the U.C.P. rules.
+
+45
+00:05:30,834 --> 00:05:34,875
+The Auditor: One more. Within UNIDROIT, which body is the ultimate decision-maker?
+
+46
+00:05:38,925 --> 00:05:40,601
+The Auditor: The General Assembly.
+
+47
+00:05:40,751 --> 00:05:45,837
+Professor Lex: It approves the budget and the work programme, and elects the Governing Council.
+
+48
+00:05:49,387 --> 00:05:52,910
+Nia: UN and UNCITRAL: conventions and model laws.
+
+49
+00:05:52,960 --> 00:05:56,677
+Nia: WTO: free trade and disputes between states.
+
+50
+00:05:56,727 --> 00:06:00,477
+Nia: ICC: Incoterms, UCP, and arbitration.
+
+51
+00:06:00,527 --> 00:06:02,775
+Nia: OECD and UNIDROIT.
+
+52
+00:06:02,825 --> 00:06:06,527
+Nia: Courts: ICJ for states, plus regional courts.
+
+53
+00:06:06,577 --> 00:06:13,368
+Professor Lex: Next time, we step inside an arbitration, from the clause in the contract to the final award.
+
+54
+00:06:13,418 --> 00:06:16,379
+Captain Cargo: Finally cleared customs! Mombasa, here I come!
+
+55
+00:06:16,729 --> 00:06:20,167
+Narrator: Next time: Episode 4. The Arbitration Room.
+

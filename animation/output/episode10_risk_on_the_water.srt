@@ -1,0 +1,164 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,652
+Narrator: Episode 10. Risk on the Water
+
+3
+00:00:10,552 --> 00:00:14,407
+Captain Cargo: Mayday! A storm off the coast, and three crates of parts are soaked!
+
+4
+00:00:14,557 --> 00:00:17,363
+Kito: Then Hans pays. They were his parts until they reached us!
+
+5
+00:00:17,513 --> 00:00:27,872
+Professor Lex: Not necessarily. The question is when risk passed. Once risk has passed to the buyer, loss or damage does not stop the buyer having to pay the price.
+
+6
+00:00:27,922 --> 00:00:32,413
+Professor Lex: Unless the loss was caused by an act or omission of the seller.
+
+7
+00:00:36,113 --> 00:00:46,229
+Professor Lex: If the contract involves carriage, and the seller need not hand the goods over at a particular place, risk passes when they are handed to the first carrier.
+
+8
+00:00:46,579 --> 00:00:53,951
+Professor Lex: If the seller must hand them to a carrier at a particular place, such as the port of Hamburg, risk passes there.
+
+9
+00:00:54,301 --> 00:01:05,639
+Professor Lex: If goods are sold while already in transit, risk generally passes when the contract is made. Unless the seller already knew they were lost or damaged, and kept quiet.
+
+10
+00:01:05,989 --> 00:01:14,560
+Professor Lex: In other cases, risk passes when the buyer takes over the goods. Or, if the buyer delays, when they are placed at its disposal.
+
+11
+00:01:14,910 --> 00:01:23,091
+Nia: And keeping the documents, like the bill of lading, doesn't stop risk passing. But the goods must be clearly identified to the contract.
+
+12
+00:01:26,791 --> 00:01:35,211
+Professor Lex: One more rule. If the seller has committed a fundamental breach, the passing of risk does not take away the buyer's remedies.
+
+13
+00:01:35,261 --> 00:01:43,634
+Professor Lex: So if the parts were also the wrong specification, SafariTech could still avoid the contract, even though risk had passed.
+
+14
+00:01:43,784 --> 00:01:49,549
+Kito: So for the soaked crates: risk passed to us in Hamburg. That's a claim on our insurance, not on Hans.
+
+15
+00:01:49,599 --> 00:01:54,496
+Professor Lex: Exactly. And that is why the insurance in the Incoterm matters.
+
+16
+00:01:57,796 --> 00:02:03,101
+Professor Lex: When a contract is avoided, both parties are released from their obligations.
+
+17
+00:02:03,151 --> 00:02:10,565
+Professor Lex: But damages for the breach survive, and so does any dispute resolution clause, like an arbitration clause.
+
+18
+00:02:10,565 --> 00:02:18,881
+Professor Lex: A party that has performed can claim back what it supplied or paid. Both sides make restitution at the same time.
+
+19
+00:02:18,881 --> 00:02:27,496
+Professor Lex: A seller refunding the price must pay interest on it. A buyer returning goods must account for any benefit it got from them.
+
+20
+00:02:27,496 --> 00:02:37,141
+Professor Lex: And a buyer who cannot return the goods in substantially the condition received generally loses the right to avoid, or to demand substitutes.
+
+21
+00:02:37,291 --> 00:02:43,397
+Nia: Unless that's not the buyer's fault, or the goods were used or sold normally before the defect was found.
+
+22
+00:02:46,897 --> 00:02:52,474
+Professor Lex: Whoever holds the goods must look after them, even when the other side is at fault.
+
+23
+00:02:52,524 --> 00:03:06,518
+Professor Lex: If the buyer delays taking delivery, or fails to pay when payment and delivery are due together, the seller must take reasonable steps to preserve the goods. It can keep them until its expenses are repaid.
+
+24
+00:03:06,668 --> 00:03:22,260
+Professor Lex: If the buyer has received the goods and intends to reject them, the buyer must preserve them. The same applies to goods put at its disposal at the destination, if it can take them without paying and without unreasonable inconvenience.
+
+25
+00:03:22,410 --> 00:03:30,524
+Professor Lex: Either party may store the goods in a third party's warehouse, at the other side's expense, if the cost is reasonable.
+
+26
+00:03:30,574 --> 00:03:45,898
+Professor Lex: If the other side delays unreasonably, the goods may be sold, with reasonable notice. And perishable goods, or goods that are expensive to keep, must be sold. The seller keeps its reasonable costs, and accounts for the balance.
+
+27
+00:03:46,048 --> 00:03:48,818
+Captain Cargo: So nobody gets to leave me rotting on the quay!
+
+28
+00:03:52,718 --> 00:03:57,085
+The Auditor: Quick check. Goods are sold while already at sea. When does risk generally pass?
+
+29
+00:04:02,135 --> 00:04:03,959
+The Auditor: When the contract is made.
+
+30
+00:04:04,109 --> 00:04:11,336
+Professor Lex: That's Article 68. Sometimes the circumstances show it passed earlier, on handover to the carrier.
+
+31
+00:04:15,285 --> 00:04:21,323
+The Auditor: And this one. A buyer rightly rejects fresh fish, and the seller cannot be reached. What must the buyer do?
+
+32
+00:04:25,373 --> 00:04:27,692
+The Auditor: Take reasonable steps to sell them.
+
+33
+00:04:27,842 --> 00:04:33,954
+Professor Lex: Article 88: perishable goods must be sold; keep costs, account for the rest
+
+34
+00:04:37,505 --> 00:04:39,675
+Nia: Risk passed? Buyer still pays.
+
+35
+00:04:39,725 --> 00:04:42,339
+Nia: Carriage: first carrier, or the named place.
+
+36
+00:04:42,389 --> 00:04:44,862
+Nia: In transit: when the contract is made.
+
+37
+00:04:44,912 --> 00:04:47,306
+Nia: Avoidance: release and restitution.
+
+38
+00:04:47,356 --> 00:04:49,724
+Nia: Preserve the goods; sell perishables.
+
+39
+00:04:49,774 --> 00:04:59,946
+Professor Lex: That completes the Sales Convention. Next time, the paperwork that moves goods and money around the world: bills of lading, and bills of exchange.
+
+40
+00:04:59,995 --> 00:05:02,932
+Captain Cargo: My favourite piece of paper is the bill of lading!
+
+41
+00:05:03,282 --> 00:05:07,194
+Narrator: Next time: Episode 11. Paper That Moves the World.
+

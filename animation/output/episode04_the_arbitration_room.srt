@@ -1,0 +1,276 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,894
+Narrator: Episode 4. The Arbitration Room
+
+3
+00:00:10,594 --> 00:00:15,804
+Kito: Hans's machine keeps breaking down! I'm taking him to the High Court in Dar es Salaam!
+
+4
+00:00:15,954 --> 00:00:21,030
+Nia: Wait. Clause twenty says any dispute goes to arbitration, seated in Nairobi.
+
+5
+00:00:21,180 --> 00:00:32,121
+Professor Lex: Then the court will usually send you to arbitration. Under the Model Law, a court must refer the parties to arbitration when there is a valid arbitration agreement.
+
+6
+00:00:32,171 --> 00:00:35,254
+Kito: So what's the difference between a court and an arbitration?
+
+7
+00:00:38,553 --> 00:00:41,604
+Professor Lex: Court adjudication has real strengths.
+
+8
+00:00:41,654 --> 00:00:49,768
+Professor Lex: Judges are legal experts. Decisions follow precedent, so outcomes are predictable, and there are rights of appeal.
+
+9
+00:00:49,818 --> 00:00:55,331
+Professor Lex: But courts can be slow, formal and expensive, and hearings are usually public.
+
+10
+00:00:55,581 --> 00:01:04,972
+Professor Lex: Arbitration is private. The parties choose an expert arbitrator, and a flexible procedure, which is often quicker and less stressful.
+
+11
+00:01:05,022 --> 00:01:13,983
+Professor Lex: But an arbitrator may not be a legal expert, awards create no precedent, and the grounds to challenge an award are very narrow.
+
+12
+00:01:14,133 --> 00:01:18,386
+Nia: And it isn't always cheaper. The parties pay the arbitrators and the venue.
+
+13
+00:01:22,086 --> 00:01:28,834
+Professor Lex: Arbitration is one of several ways to resolve a dispute outside court. Think of a spectrum.
+
+14
+00:01:28,884 --> 00:01:32,395
+Professor Lex: In negotiation, the parties talk directly.
+
+15
+00:01:32,395 --> 00:01:38,755
+Professor Lex: In mediation, a neutral mediator helps them reach their own agreement, but imposes nothing.
+
+16
+00:01:38,755 --> 00:01:44,117
+Professor Lex: In conciliation, the neutral goes further, and proposes terms for settlement.
+
+17
+00:01:44,117 --> 00:01:47,998
+Professor Lex: In arbitration, a tribunal makes a binding award.
+
+18
+00:01:47,998 --> 00:01:51,778
+Professor Lex: And in litigation, a court gives a binding judgment.
+
+19
+00:01:52,028 --> 00:01:55,698
+Nia: So moving along the line, the parties hand over more control.
+
+20
+00:01:59,199 --> 00:02:09,294
+Professor Lex: One famous institution is the ICC's International Court of Arbitration in Paris, created in 1923.
+
+21
+00:02:09,344 --> 00:02:18,043
+Professor Lex: Despite its name, it does not decide disputes itself. It administers and supervises ICC arbitrations.
+
+22
+00:02:18,193 --> 00:02:21,554
+Professor Lex: It confirms or appoints the arbitrators.
+
+23
+00:02:21,554 --> 00:02:25,173
+Professor Lex: It decides challenges against arbitrators.
+
+24
+00:02:25,173 --> 00:02:29,988
+Professor Lex: It scrutinises and approves draft awards, before they are signed.
+
+25
+00:02:29,988 --> 00:02:33,840
+Professor Lex: And it fixes the arbitrators' fees and expenses.
+
+26
+00:02:34,090 --> 00:02:37,482
+Nia: So the court is the referee's supervisor, not the referee.
+
+27
+00:02:40,981 --> 00:02:54,915
+Professor Lex: Many countries base their arbitration law on the UNCITRAL Model Law on International Commercial Arbitration. Kenya's Arbitration Act of 1995 follows it closely.
+
+28
+00:02:55,065 --> 00:03:06,870
+Professor Lex: First, the arbitration agreement must be in writing. A signed contract, an exchange of letters or emails, or a reference to a document containing the clause, will all do.
+
+29
+00:03:06,920 --> 00:03:14,381
+Professor Lex: Second, a court must refer the parties to arbitration, unless the agreement is void or cannot be performed.
+
+30
+00:03:14,431 --> 00:03:26,322
+Professor Lex: Third, the tribunal can rule on its own jurisdiction. And the arbitration clause is treated as separate from the main contract, so it survives even if the contract is void.
+
+31
+00:03:26,372 --> 00:03:32,519
+Professor Lex: Fourth, the tribunal may order interim measures, such as preserving goods or evidence.
+
+32
+00:03:32,569 --> 00:03:39,564
+Professor Lex: And fifth, the parties must be treated equally, and each given a full opportunity to present its case.
+
+33
+00:03:39,714 --> 00:03:40,861
+Nia: And Tanzania?
+
+34
+00:03:40,911 --> 00:03:50,656
+Professor Lex: Tanzania's Arbitration Act of 2020 draws more on the English Arbitration Act, but shares the same core ideas.
+
+35
+00:03:54,157 --> 00:04:04,816
+Professor Lex: The parties can agree on the number of arbitrators. If they agree on one, they must also agree who it is, or a court or appointing authority will choose.
+
+36
+00:04:04,966 --> 00:04:08,820
+Professor Lex: If they have not agreed the number, the Model Law says three.
+
+37
+00:04:08,870 --> 00:04:11,687
+Professor Lex: Each party appoints one arbitrator.
+
+38
+00:04:11,687 --> 00:04:14,949
+Professor Lex: And those two appoint the third, who presides.
+
+39
+00:04:15,199 --> 00:04:26,940
+Professor Lex: Nationality alone cannot bar anyone. But every arbitrator must be impartial and independent, and must disclose anything that could raise justifiable doubts.
+
+40
+00:04:26,990 --> 00:04:40,955
+Professor Lex: A party may challenge an arbitrator on those grounds, or for lacking the agreed qualifications. If an arbitrator cannot act, they withdraw, or the parties end the mandate, and a substitute is appointed.
+
+41
+00:04:41,105 --> 00:04:44,820
+Hans: Then I appoint an engineer, and Kito appoints a lawyer.
+
+42
+00:04:44,870 --> 00:04:46,708
+Kito: Deal. And they pick the chair together.
+
+43
+00:04:50,207 --> 00:04:59,376
+Professor Lex: With three arbitrators, decisions are made by a majority. If the parties settle, the tribunal can record it as a consent award.
+
+44
+00:04:59,526 --> 00:05:09,766
+Professor Lex: An award must be in writing and signed. It must give reasons, unless the parties agree otherwise, and state its date and the place of arbitration.
+
+45
+00:05:09,916 --> 00:05:16,553
+Professor Lex: Within thirty days, a party may ask the tribunal to correct typing or calculation errors.
+
+46
+00:05:16,703 --> 00:05:28,966
+Professor Lex: An award is binding, and can be enforced in any country, including through the New York Convention of 1958, which Tanzania and Kenya have both joined.
+
+47
+00:05:30,416 --> 00:05:33,324
+Nia: So the award is final. Can it ever be cancelled?
+
+48
+00:05:36,424 --> 00:05:44,464
+Professor Lex: Only rarely. The only route is an application to the court at the seat, made within three months of receiving the award.
+
+49
+00:05:44,514 --> 00:05:52,433
+Professor Lex: The court does not re-hear the merits. A wrong decision on the facts or the law is not enough. The grounds are listed.
+
+50
+00:05:52,583 --> 00:05:57,467
+Professor Lex: A party lacked capacity, or the arbitration agreement was invalid.
+
+51
+00:05:57,467 --> 00:06:02,124
+Professor Lex: A party was not given proper notice, or could not present its case.
+
+52
+00:06:02,124 --> 00:06:06,193
+Professor Lex: The award deals with matters outside what was submitted.
+
+53
+00:06:06,193 --> 00:06:10,285
+Professor Lex: The tribunal or procedure did not follow the agreement.
+
+54
+00:06:10,285 --> 00:06:17,876
+Professor Lex: Or the court itself finds the subject cannot be arbitrated, or the award conflicts with public policy.
+
+55
+00:06:18,026 --> 00:06:24,190
+Professor Lex: Almost the same grounds allow a court elsewhere to refuse recognition and enforcement.
+
+56
+00:06:28,090 --> 00:06:33,922
+The Auditor: Quick check. If the parties have not agreed how many arbitrators, how many does the Model Law provide?
+
+57
+00:06:38,972 --> 00:06:40,023
+The Auditor: Three.
+
+58
+00:06:40,173 --> 00:06:45,139
+Professor Lex: Each party appoints one, and those two appoint the presiding arbitrator.
+
+59
+00:06:49,090 --> 00:06:52,507
+The Auditor: And which of these is not a ground for setting aside an award?
+
+60
+00:06:57,557 --> 00:06:59,668
+The Auditor: The wrong decision on the facts.
+
+61
+00:06:59,818 --> 00:07:06,841
+Professor Lex: Courts do not re-hear the merits. The grounds are about procedure, jurisdiction and public policy.
+
+62
+00:07:10,391 --> 00:07:12,211
+Nia: Court versus arbitration.
+
+63
+00:07:12,261 --> 00:07:13,798
+Nia: The ADR spectrum.
+
+64
+00:07:13,848 --> 00:07:17,172
+Nia: The ICC Court supervises, it doesn't decide.
+
+65
+00:07:17,222 --> 00:07:21,041
+Nia: Model Law: written agreement, three arbitrators by default.
+
+66
+00:07:21,091 --> 00:07:24,663
+Nia: Awards are binding, and only set aside on narrow grounds.
+
+67
+00:07:24,713 --> 00:07:34,202
+Professor Lex: Next time, we go back to the start: how SafariTech and Hans formed their contract in the first place, under the UN Sales Convention.
+
+68
+00:07:34,252 --> 00:07:37,579
+Captain Cargo: A contract across the ocean? That's my kind of story!
+
+69
+00:07:37,929 --> 00:07:41,978
+Narrator: Next time: Episode 5. The Contract Across the Ocean.
+

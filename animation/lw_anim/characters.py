@@ -47,6 +47,12 @@ CAST = {
     "AUDITOR": Look(skin="#e8b48f", hair="#5a4632", hair_style="neat", top="#6c7a89",
                     bottom="#4a5562", collar="suit_tie", tie="#0f8b8d",
                     glasses="square", seed=4.1, width=0.98),
+    "HANS": Look(skin="#f1c7a5", hair="#d8b25a", hair_style="short", top="#3d405b",
+                 bottom="#2d3142", collar="suit_tie", tie="#e4572e", seed=5.3,
+                 width=1.02),
+    "AMARA": Look(skin="#6b4226", hair="#1c1410", hair_style="neat", top="#7768ae",
+                  bottom="#2d3142", collar="blazer", shirt="#fdf0ff", earrings=True,
+                  seed=6.2, width=0.94),
 }
 
 POSES = {

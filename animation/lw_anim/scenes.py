@@ -757,7 +757,7 @@ def draw_s8(c, t, st):
         c.drawRect(skia.Rect.MakeWH(W, H), lin_grad(0, 0, 0, H, ["#13233a", "#1f3a5f"]))
         text(c, "NEXT TIME", W / 2, 200, 44, "#9fe3df", 700, "center")
         P.chip(c, W / 2, 290, "EPISODE 2", "#0f8b8d", 38)
-        text(c, "The Contract Across the Ocean", W / 2, 440, 96, "accent", 700, "center",
+        text(c, "Three Families of Law", W / 2, 440, 96, "accent", 700, "center",
              outline="#0b1622", outline_w=12)
         P.waves(c, 860, t, "#2b86c5")
         P.ship(c, lerp(700, 1150, prog(t, te, 12)), 880, 0.75, t)

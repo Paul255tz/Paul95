@@ -12,7 +12,7 @@ import os
 import numpy as np
 import soundfile as sf
 
-from .script_ep1 import Line, Pause, Sfx
+from .beats import Line, Pause, Sfx
 
 SR = 24000
 FPS_ENV = 60  # resolution of the lip-sync envelope
@@ -96,7 +96,8 @@ def build_timeline(scenes, voices, voice: Voice, lead=0.6, tail=0.4):
         cur += tail
         out_scenes.append({"key": sc.key, "title": sc.title, "clock": sc.clock,
                            "start": round(st, 3), "dur": round(cur, 3),
-                           "events": events, "lines": lines})
+                           "events": events, "lines": lines,
+                           "spec": getattr(sc, "spec", None)})
         t += cur
     return {"total": round(t, 3), "scenes": out_scenes, "sfx": sfx}, clips
 

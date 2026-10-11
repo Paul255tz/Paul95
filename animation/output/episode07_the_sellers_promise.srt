@@ -1,0 +1,228 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,821
+Narrator: Episode 7. The Seller's Promise
+
+3
+00:00:10,521 --> 00:00:15,435
+Kito: Five machines arrived. Machine two keeps jamming, and machine five is the wrong model!
+
+4
+00:00:15,585 --> 00:00:20,356
+Nia: Before we shout at Hans, let's check what the CISG says the seller actually promised.
+
+5
+00:00:20,406 --> 00:00:31,425
+Professor Lex: Good instinct. The seller has three core duties: deliver the goods, hand over any documents, and transfer the property in the goods, all as the contract requires.
+
+6
+00:00:34,724 --> 00:00:41,565
+Professor Lex: If the contract names a place of delivery, deliver there. If not, the Convention fills the gap.
+
+7
+00:00:41,614 --> 00:00:48,128
+Professor Lex: If the contract involves carriage, the seller delivers by handing the goods to the first carrier.
+
+8
+00:00:48,128 --> 00:00:56,815
+Professor Lex: If the goods are specific, or come from a known stock or factory, the seller places them at the buyer's disposal at that place.
+
+9
+00:00:56,815 --> 00:01:00,249
+Professor Lex: Otherwise, at the seller's own place of business.
+
+10
+00:01:00,499 --> 00:01:11,735
+Professor Lex: If unidentified goods are shipped, the seller must notify the buyer which goods are his, and arrange appropriate carriage. Perishable goods need a suitable carrier.
+
+11
+00:01:11,885 --> 00:01:24,632
+Professor Lex: Timing: on the date fixed, within any agreed period, or else within a reasonable time after the contract. And documents must be handed over at the time, place and in the form agreed.
+
+12
+00:01:28,133 --> 00:01:36,059
+Professor Lex: The goods must match the contract in quantity, quality and description, and be packaged as the contract requires.
+
+13
+00:01:36,109 --> 00:01:40,880
+Professor Lex: Unless agreed otherwise, they must also meet four implied standards.
+
+14
+00:01:40,930 --> 00:01:45,212
+Professor Lex: Fit for the purposes such goods are ordinarily used for.
+
+15
+00:01:45,212 --> 00:01:52,250
+Professor Lex: Fit for any particular purpose the buyer made known, unless the buyer did not rely on the seller's skill.
+
+16
+00:01:52,250 --> 00:01:55,556
+Professor Lex: Match any sample or model the seller showed.
+
+17
+00:01:55,556 --> 00:01:59,834
+Professor Lex: And be packed in the usual way, or adequately to protect them.
+
+18
+00:02:00,084 --> 00:02:11,963
+Professor Lex: The seller is not liable if the buyer knew of the defect when contracting. But the seller is liable for any defect that existed when risk passed, even if it only shows up later.
+
+19
+00:02:12,113 --> 00:02:15,688
+Nia: So machine five, the wrong model, fails the description test.
+
+20
+00:02:19,187 --> 00:02:23,427
+Professor Lex: Now the buyer's homework. Miss it, and the remedies vanish.
+
+21
+00:02:23,477 --> 00:02:36,296
+Professor Lex: On delivery, the buyer must examine the goods within as short a period as is practicable. If the goods are sent straight on, examination can wait until they reach the new destination.
+
+22
+00:02:36,296 --> 00:02:45,959
+Professor Lex: Then give the seller notice of the defect, specifying its nature, within a reasonable time of discovering it, or when it ought to have been discovered.
+
+23
+00:02:45,959 --> 00:02:54,783
+Professor Lex: And there is a long stop. No notice within two years of delivery means the right is lost, unless a longer guarantee applies.
+
+24
+00:02:54,933 --> 00:03:01,996
+Professor Lex: One exception: if the seller knew of the defect and kept quiet, the seller cannot rely on late notice.
+
+25
+00:03:02,146 --> 00:03:06,454
+Kito: Nia, email Hans today, and describe exactly how machine two jams!
+
+26
+00:03:10,554 --> 00:03:16,254
+Amara: One more check from the bank's side. Does anyone else claim these machines, or the technology inside them?
+
+27
+00:03:16,404 --> 00:03:25,658
+Professor Lex: Good question. The seller must deliver goods free from any right or claim of a third party, unless the buyer agreed to take them subject to it.
+
+28
+00:03:25,708 --> 00:03:35,474
+Professor Lex: For intellectual property, such as patents, trade marks and copyright, the seller is liable for rights it knew of, or could not have been unaware of.
+
+29
+00:03:35,524 --> 00:03:46,393
+Professor Lex: That means rights under the law of the country where the goods will be resold or used, if both parties contemplated it, or otherwise the buyer's own country.
+
+30
+00:03:46,443 --> 00:03:54,511
+Professor Lex: But not if the buyer already knew of the right, or if the problem came from the buyer's own designs or specifications.
+
+31
+00:03:54,561 --> 00:03:58,171
+Amara: And the buyer must notify any claim within a reasonable time.
+
+32
+00:04:01,672 --> 00:04:05,126
+Professor Lex: If the seller breaches, the buyer has a toolkit.
+
+33
+00:04:05,176 --> 00:04:13,741
+Professor Lex: Require performance. Substitute goods only if the defect is a fundamental breach, and repair if that is reasonable.
+
+34
+00:04:13,741 --> 00:04:18,803
+Professor Lex: Fix an additional period of reasonable length for the seller to perform.
+
+35
+00:04:18,803 --> 00:04:26,218
+Professor Lex: Avoid the contract, by notice, for a fundamental breach, or for non-delivery within the additional period.
+
+36
+00:04:26,218 --> 00:04:29,777
+Professor Lex: Reduce the price in proportion to the defect.
+
+37
+00:04:29,777 --> 00:04:33,889
+Professor Lex: And claim damages, which can be added to any other remedy.
+
+38
+00:04:34,139 --> 00:04:48,880
+Professor Lex: A breach is fundamental if it substantially deprives the other party of what it was entitled to expect. And the seller may still cure, without unreasonable delay or inconvenience, even after the delivery date.
+
+39
+00:04:49,030 --> 00:04:56,466
+Nia: So for machine two, we ask for repair. For machine five, a replacement, if the wrong model is a fundamental breach.
+
+40
+00:04:59,966 --> 00:05:03,083
+Professor Lex: Two more situations come up in exams.
+
+41
+00:05:03,133 --> 00:05:19,649
+Professor Lex: If the seller delivers before the date, the buyer may take delivery, or refuse it. And if goods are short, the seller may make up the shortfall up to the delivery date, if that causes no unreasonable inconvenience. The buyer keeps any right to damages.
+
+42
+00:05:19,799 --> 00:05:28,995
+Professor Lex: If the seller delivers more than agreed, the buyer may refuse the excess, or keep some or all of it, paying for it at the contract rate.
+
+43
+00:05:29,145 --> 00:05:34,084
+Kito: So if Hans sends six machines, I can keep the sixth, but I pay the contract price for it.
+
+44
+00:05:37,984 --> 00:05:46,525
+The Auditor: Quick check. A buyer first notices a hidden defect thirty months after delivery. No guarantee, and the seller did not know. What is the position?
+
+45
+00:05:51,575 --> 00:05:54,077
+The Auditor: The buyer has lost the right to rely on it.
+
+46
+00:05:54,227 --> 00:05:59,040
+Professor Lex: Article 39 sets a two-year long stop for giving notice.
+
+47
+00:06:02,990 --> 00:06:05,897
+The Auditor: And when can the buyer demand substitute goods?
+
+48
+00:06:09,947 --> 00:06:13,094
+The Auditor: Only if the defect amounts to a fundamental breach.
+
+49
+00:06:13,244 --> 00:06:18,747
+Professor Lex: Otherwise the buyer can ask for repair, reduce the price or claim damages
+
+50
+00:06:22,297 --> 00:06:25,524
+Nia: Deliver, hand over documents, transfer property.
+
+51
+00:06:25,574 --> 00:06:29,285
+Nia: Place of delivery: carrier, disposal, or seller's place.
+
+52
+00:06:29,335 --> 00:06:32,076
+Nia: Conformity: fit, sample, packaging.
+
+53
+00:06:32,126 --> 00:06:34,663
+Nia: Examine, notify, two-year long stop.
+
+54
+00:06:34,713 --> 00:06:38,783
+Nia: Remedies: perform, extra time, avoid, reduce, damages.
+
+55
+00:06:38,833 --> 00:06:45,844
+Professor Lex: Next time, we switch sides. What does the buyer owe, and what can Hans do if SafariTech doesn't pay?
+
+56
+00:06:45,894 --> 00:06:47,937
+Hans: Finally, my side of the story!
+
+57
+00:06:48,287 --> 00:06:51,253
+Narrator: Next time: Episode 8. The Buyer's Side.
+

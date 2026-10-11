@@ -1,0 +1,188 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,772
+Narrator: Episode 6. Inco-terms. Who Pays, Who Risks?
+
+3
+00:00:11,672 --> 00:00:16,658
+Hans: My quote says FOB Hamburg, Incoterms 2020.
+
+4
+00:00:16,808 --> 00:00:19,018
+Kito: Three letters? What do they actually decide?
+
+5
+00:00:19,168 --> 00:00:27,215
+Professor Lex: Incoterms are trade terms published by the ICC. The current version is Incoterms 2020.
+
+6
+00:00:27,265 --> 00:00:37,778
+Professor Lex: Each rule tells you who arranges and pays for carriage, who handles export and import clearance, and the exact point where risk passes from seller to buyer.
+
+7
+00:00:37,928 --> 00:00:47,777
+Professor Lex: But careful. They do not decide when ownership passes, how the price is paid, or what happens on breach. The contract and the governing law do that.
+
+8
+00:00:47,827 --> 00:00:50,341
+Captain Cargo: And they only apply if the contract says so!
+
+9
+00:00:53,641 --> 00:00:56,787
+Professor Lex: There are eleven rules, in two families.
+
+10
+00:00:56,837 --> 00:01:07,518
+Professor Lex: Seven can be used for any mode of transport, or more than one: EXW, FCA, CPT, CIP, DAP, DPU and DDP.
+
+11
+00:01:07,668 --> 00:01:14,868
+Professor Lex: Four are only for sea and inland waterway: FAS, FOB, CFR and CIF.
+
+12
+00:01:15,018 --> 00:01:23,185
+Professor Lex: Always name the place, and the version. For example, CIP Dar es Salaam, Incoterms 2020.
+
+13
+00:01:23,235 --> 00:01:29,311
+Nia: E terms, F terms, C terms and D terms. The seller's job grows as the letters go up.
+
+14
+00:01:33,211 --> 00:01:43,751
+Professor Lex: EXW, Ex Works. The seller just makes the goods available at its own premises. The buyer loads, clears export, and bears all risk from there.
+
+15
+00:01:44,101 --> 00:01:52,498
+Professor Lex: FCA, Free Carrier. The seller clears export and hands the goods to the buyer's carrier. Risk passes on that handover.
+
+16
+00:01:52,848 --> 00:02:03,642
+Professor Lex: CPT, Carriage Paid To. The seller pays the carriage all the way to the named destination, but risk still passes when the goods reach the first carrier.
+
+17
+00:02:03,992 --> 00:02:14,908
+Professor Lex: CIP is the same, plus insurance. Under the 2020 rules, the seller must buy all-risks cover, for at least the price plus ten percent.
+
+18
+00:02:15,258 --> 00:02:23,670
+Professor Lex: DAP, Delivered at Place. The seller bears the risk until the goods arrive, ready for unloading, at the named place.
+
+19
+00:02:24,020 --> 00:02:31,240
+Professor Lex: DPU, Delivered at Place Unloaded. The only rule where the seller must also unload the goods.
+
+20
+00:02:31,590 --> 00:02:40,127
+Professor Lex: And DDP, Delivered Duty Paid. Maximum obligation for the seller, who even clears import and pays the duties.
+
+21
+00:02:44,427 --> 00:02:54,140
+Professor Lex: Now the four sea rules. FAS, Free Alongside Ship. Risk passes when the goods are placed alongside the vessel at the port of shipment.
+
+22
+00:02:54,490 --> 00:03:00,942
+Professor Lex: FOB, Free On Board. The buyer books the ship. Risk passes once the goods are on board.
+
+23
+00:03:01,292 --> 00:03:10,932
+Professor Lex: CFR, Cost and Freight. The seller pays the freight to the destination port, but risk has already passed on board, at the port of shipment.
+
+24
+00:03:11,282 --> 00:03:19,343
+Professor Lex: CIF adds insurance. But here the minimum is only basic cover, again for the price plus ten percent.
+
+25
+00:03:19,693 --> 00:03:25,261
+Nia: So with every C term, the seller pays further than it carries the risk. Two critical points!
+
+26
+00:03:29,161 --> 00:03:31,648
+The Auditor: Let me flag the classic exam traps.
+
+27
+00:03:31,698 --> 00:03:36,683
+The Auditor: Under C terms, the seller pays to the destination, but risk passes at shipment.
+
+28
+00:03:36,683 --> 00:03:41,893
+The Auditor: CIP needs all-risks insurance. CIF only needs minimum cover.
+
+29
+00:03:41,893 --> 00:03:47,479
+The Auditor: Under EXW, the buyer clears export. Under DDP, the seller clears import.
+
+30
+00:03:47,479 --> 00:03:55,034
+The Auditor: For goods in containers, FCA, CPT or CIP usually fit better than FOB, CFR or CIF.
+
+31
+00:03:55,034 --> 00:03:58,880
+The Auditor: And DPU is the only rule that makes the seller unload.
+
+32
+00:03:59,030 --> 00:04:04,525
+Kito: Our machines travel in containers, and I want them insured. So, CIP Dar es Salaam!
+
+33
+00:04:08,426 --> 00:04:12,526
+The Auditor: Quick check. Under F.O.B., when does risk pass from seller to buyer?
+
+34
+00:04:17,576 --> 00:04:19,704
+The Auditor: When the goods are on board the vessel.
+
+35
+00:04:19,854 --> 00:04:26,076
+Professor Lex: Under F.O.B., the buyer books the ship, and risk passes once the goods are on board.
+
+36
+00:04:30,025 --> 00:04:34,960
+The Auditor: And which rule puts the maximum obligation on the seller, including import duties?
+
+37
+00:04:39,010 --> 00:04:41,472
+The Auditor: D.D.P., Delivered Duty Paid.
+
+38
+00:04:41,622 --> 00:04:45,912
+Professor Lex: EXW is the opposite: the minimum obligation for the seller
+
+39
+00:04:49,462 --> 00:04:51,942
+Nia: Incoterms come from the ICC.
+
+40
+00:04:51,992 --> 00:04:54,983
+Nia: They cover costs, clearance and risk, not ownership.
+
+41
+00:04:55,033 --> 00:04:57,648
+Nia: Seven any-mode rules, four sea rules.
+
+42
+00:04:57,698 --> 00:04:59,855
+Nia: C terms have two critical points.
+
+43
+00:04:59,905 --> 00:05:03,274
+Nia: CIP all-risks, CIF minimum cover.
+
+44
+00:05:03,324 --> 00:05:10,779
+Professor Lex: Next time, the machines arrive. What exactly must the seller deliver, and what can the buyer do if they are not right?
+
+45
+00:05:10,829 --> 00:05:13,032
+Hans: My machines are always perfect!
+
+46
+00:05:13,082 --> 00:05:14,290
+Kito: We'll see about that.
+
+47
+00:05:14,640 --> 00:05:18,001
+Narrator: Next time: Episode 7. The Seller's Promise.
+

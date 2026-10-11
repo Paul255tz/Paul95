@@ -5,60 +5,13 @@ Animation Script (2026-27). Long speeches are split into shorter lines so the
 visuals can sync to each idea. `say=` holds a pronunciation-friendly version
 for the speech engine when it differs from the subtitle text.
 """
-from dataclasses import dataclass, field
-
-
-@dataclass
-class Line:
-    id: str
-    who: str
-    text: str
-    say: str | None = None
-    gap: float = 0.35   # silence after the line
-
-
-@dataclass
-class Pause:
-    id: str
-    dur: float
-
-
-@dataclass
-class Sfx:
-    kind: str
-    offset: float = 0.0
-
-
-@dataclass
-class Scene:
-    key: str
-    title: str
-    clock: str
-    beats: list = field(default_factory=list)
-
-
-# Voice cast (Kokoro-82M voices)
-VOICES = {
-    "NARRATOR": ("af_bella", 1.0),
-    "NIA": ("af_heart", 1.0),
-    "KITO": ("am_puck", 1.05),
-    "LEX": ("bm_george", 0.95),
-    "CARGO": ("am_fenrir", 0.98),
-    "AUDITOR": ("bf_emma", 0.95),
-}
-
-DISPLAY_NAMES = {
-    "NARRATOR": "Narrator",
-    "NIA": "Nia",
-    "KITO": "Kito",
-    "LEX": "Professor Lex",
-    "CARGO": "Captain Cargo",
-    "AUDITOR": "The Auditor",
-}
+from .beats import DISPLAY_NAMES, VOICES, Line, Pause, Scene, Sfx  # noqa: F401
 
 SERIES = "THE LAW BEHIND THE DEAL"
+SLUG = "episode1_who_makes_the_rules"
 EPISODE = "Episode 1"
 EPISODE_TITLE = "Who Makes the Rules?"
+NEXT_TITLE = "Three Families of Law"
 
 SCENES = [
     Scene("title", "Title", "", [
@@ -215,18 +168,15 @@ SCENES = [
         Line("nia8d", "NIA", "Damages versus equitable remedies.", gap=0.3),
         Sfx("pin"),
         Line("nia8e", "NIA", "Court versus ADR.", say="Court versus A. D. R.", gap=0.5),
-        Line("lex8", "LEX", "Excellent. Next time, SafariTech's shipment will cross an "
-             "ocean, and the contract will decide who pays, who delivers, and when risk "
-             "moves.",
-             say="Excellent. Next time, Safari Tech's shipment will cross an ocean, and "
-                 "the contract will decide who pays, who delivers, and when risk moves.",
-             gap=0.3),
+        Line("lex8", "LEX", "Excellent. Next time, we tour the world's great legal families: "
+             "common law, civil law and Sharia law, and how the world's economies shape "
+             "them.", gap=0.3),
         Sfx("horn"),
         Pause("ship", 0.8),
-        Line("cargo8", "CARGO", "I hope someone chose the right Incoterm!",
-             say="I hope someone chose the right Inco-term!", gap=0.8),
+        Line("cargo8", "CARGO", "I've docked in countries from every one of those families!",
+             gap=0.8),
         Sfx("jingle"),
-        Line("n3", "NARRATOR", "Next time: Episode two. The Contract Across the Ocean.",
+        Line("n3", "NARRATOR", "Next time: Episode two. Three Families of Law.",
              gap=0.6),
         Pause("end", 3.6),
     ]),

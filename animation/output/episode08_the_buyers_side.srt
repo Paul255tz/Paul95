@@ -1,0 +1,200 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,587
+Narrator: Episode 8. The Buyer's Side
+
+3
+00:00:10,287 --> 00:00:15,366
+Hans: Kito, my invoice is thirty days overdue. Two hundred thousand euros!
+
+4
+00:00:15,516 --> 00:00:19,010
+Kito: Not until every machine works. I'm holding back the whole price!
+
+5
+00:00:19,160 --> 00:00:27,107
+Professor Lex: Careful, Kito. The buyer has duties too, and refusing to pay for good machines could put SafariTech in breach.
+
+6
+00:00:27,157 --> 00:00:33,987
+Professor Lex: Under the CISG, the buyer has two core obligations: pay the price, and take delivery of the goods.
+
+7
+00:00:37,287 --> 00:00:45,450
+Professor Lex: Paying includes the steps needed to make payment possible, like opening a letter of credit, or getting a bank guarantee.
+
+8
+00:00:45,500 --> 00:00:52,378
+Professor Lex: If no price was fixed, it is the price generally charged for such goods when the contract was made.
+
+9
+00:00:52,378 --> 00:00:55,848
+Professor Lex: If the price depends on weight, use the net weight.
+
+10
+00:00:55,848 --> 00:01:03,371
+Professor Lex: Place: the seller's place of business, or, if payment is against goods or documents, wherever they are handed over.
+
+11
+00:01:03,371 --> 00:01:12,712
+Professor Lex: Time: when the seller places the goods or documents at the buyer's disposal. The seller can make payment a condition of handing them over.
+
+12
+00:01:12,712 --> 00:01:18,929
+Professor Lex: The buyer may examine the goods before paying, unless the agreed payment method rules that out.
+
+13
+00:01:18,929 --> 00:01:23,751
+Professor Lex: And the buyer must pay on the due date, without any request from the seller.
+
+14
+00:01:23,901 --> 00:01:28,254
+Amara: That's why our bank asks importers to set up payment terms before the goods ship.
+
+15
+00:01:31,754 --> 00:01:34,573
+Professor Lex: Taking delivery has two parts.
+
+16
+00:01:34,623 --> 00:01:45,451
+Professor Lex: First, doing everything that can reasonably be expected so the seller can deliver. For example, sending a ship under FOB, or giving specifications.
+
+17
+00:01:45,501 --> 00:01:48,220
+Professor Lex: Second, actually taking over the goods.
+
+18
+00:01:48,370 --> 00:01:52,004
+Captain Cargo: So if nobody collects me at the port, that's the buyer's breach!
+
+19
+00:01:52,054 --> 00:01:59,470
+Professor Lex: Exactly. And even a buyer who rejects goods must look after them. We'll see that duty in the next episode.
+
+20
+00:02:02,970 --> 00:02:07,178
+Professor Lex: If the buyer breaches, the seller's toolkit mirrors the buyer's.
+
+21
+00:02:07,228 --> 00:02:16,317
+Professor Lex: Require the buyer to pay, take delivery, or perform its other obligations, unless the seller has chosen an inconsistent remedy.
+
+22
+00:02:16,317 --> 00:02:21,425
+Professor Lex: Fix an additional period of reasonable length for the buyer to perform.
+
+23
+00:02:21,425 --> 00:02:29,715
+Professor Lex: Avoid the contract, for a fundamental breach, or if the buyer does not pay or take delivery within the additional period.
+
+24
+00:02:29,715 --> 00:02:34,882
+Professor Lex: If the buyer fails to give specifications, the seller may supply them itself.
+
+25
+00:02:34,882 --> 00:02:38,597
+Professor Lex: And claim damages, alongside any other remedy.
+
+26
+00:02:38,847 --> 00:02:48,752
+Professor Lex: One limit: once the buyer has paid, the seller generally loses the right to avoid, unless it acts quickly about late performance or another breach.
+
+27
+00:02:48,802 --> 00:02:54,636
+Hans: So I could fix a deadline, and then avoid the contract if SafariTech still doesn't pay.
+
+28
+00:02:58,135 --> 00:03:02,387
+Hans: Next time, I'll keep ownership of my machines until I'm paid.
+
+29
+00:03:02,537 --> 00:03:09,598
+Professor Lex: That is a retention of title clause, often called a Romalpa clause, after a famous English case.
+
+30
+00:03:09,648 --> 00:03:19,193
+Professor Lex: A Dutch supplier sold aluminium foil to an English company, with a clause keeping ownership until payment. The buyer became insolvent.
+
+31
+00:03:19,243 --> 00:03:28,046
+Professor Lex: The court held the supplier could recover its unsold foil, and the proceeds of resales held for it, ahead of the other creditors.
+
+32
+00:03:29,396 --> 00:03:37,550
+Professor Lex: But remember: the CISG does not deal with ownership. Whether such a clause works depends on the national law that applies.
+
+33
+00:03:41,050 --> 00:03:42,764
+Nia: So what should we do, Professor?
+
+34
+00:03:42,814 --> 00:03:50,085
+Professor Lex: Pay for the three machines that conform. Holding back the whole price could itself be a fundamental breach.
+
+35
+00:03:50,135 --> 00:03:58,926
+Professor Lex: For machine two, demand repair, or reduce the price. For machine five, ask for a substitute, and keep your damages claim.
+
+36
+00:03:59,076 --> 00:04:03,513
+Kito: Fine. Pay for what works, and fight for the rest. Hans, the money's on its way.
+
+37
+00:04:03,563 --> 00:04:06,596
+Hans: Danke! And I'll send a technician for machine two.
+
+38
+00:04:10,496 --> 00:04:14,590
+The Auditor: Quick check. If the contract does not fix a price, what price is payable?
+
+39
+00:04:19,640 --> 00:04:23,498
+The Auditor: The price generally charged for such goods when the contract was made.
+
+40
+00:04:27,448 --> 00:04:30,134
+The Auditor: And what is the effect of a Romalpa clause?
+
+41
+00:04:34,184 --> 00:04:36,868
+The Auditor: The seller keeps ownership until it is paid.
+
+42
+00:04:37,018 --> 00:04:40,883
+Professor Lex: Whether it works depends on the applicable national law.
+
+43
+00:04:44,432 --> 00:04:46,509
+Nia: Pay the price and take delivery.
+
+44
+00:04:46,559 --> 00:04:49,305
+Nia: Payment includes steps like a letter of credit.
+
+45
+00:04:49,355 --> 00:04:52,459
+Nia: No price fixed? The general price at contract.
+
+46
+00:04:52,509 --> 00:04:54,596
+Nia: Seller's remedies mirror the buyer's.
+
+47
+00:04:54,646 --> 00:04:56,973
+Nia: Romalpa keeps title until payment.
+
+48
+00:04:57,023 --> 00:05:05,614
+Professor Lex: Next time, things go really wrong: anticipatory breach, instalments, damages, and events beyond anyone's control.
+
+49
+00:05:05,664 --> 00:05:08,414
+Captain Cargo: Uh oh. I hope nobody drops me in the ocean!
+
+50
+00:05:08,764 --> 00:05:11,685
+Narrator: Next time: Episode 9. When Deals Break.
+

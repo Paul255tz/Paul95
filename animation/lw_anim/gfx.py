@@ -203,13 +203,25 @@ def font(size, family="Fredoka", weight=500):
     return f
 
 
+# characters the bundled fonts lack, mapped to look-alikes they do have
+GLYPH_SUBS = {"→": "–›", "←": "‹–", "≥": ">=", "≤": "<=", "✓": "·", "≠": "=/=", "≈": "~"}
+
+
+def _subs(s):
+    for k, v in GLYPH_SUBS.items():
+        if k in s:
+            s = s.replace(k, v)
+    return s
+
+
 def text_width(s, size, family="Fredoka", weight=500):
-    return font(size, family, weight).measureText(s)
+    return font(size, family, weight).measureText(_subs(s))
 
 
 def text(c, s, x, y, size=48, color="ink", weight=500, align="left", a=1.0,
          family="Fredoka", outline=None, outline_w=8):
     """Draw a single line; y is the baseline."""
+    s = _subs(s)
     f = font(size, family, weight)
     w = f.measureText(s)
     if align == "center":
