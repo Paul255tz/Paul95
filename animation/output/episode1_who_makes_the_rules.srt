@@ -1,0 +1,208 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,678
+Narrator: Episode one. Who makes the rules?
+
+3
+00:00:12,778 --> 00:00:16,598
+Kito: The supplier broke our deal! I want them punished, and I want our money back!
+
+4
+00:00:16,848 --> 00:00:19,804
+Nia: Hmm. Those might be two different legal questions.
+
+5
+00:00:20,754 --> 00:00:24,541
+Professor Lex: Exactly. First, identify the type of problem.
+
+6
+00:00:24,691 --> 00:00:32,372
+Professor Lex: A civil dispute is about a remedy for a private wrong. A criminal case is a prosecution for an offence.
+
+7
+00:00:36,872 --> 00:00:44,987
+Professor Lex: A civil claim commonly seeks compensation or another remedy. The usual standard is the balance of probabilities.
+
+8
+00:00:45,337 --> 00:00:52,427
+Professor Lex: A criminal prosecution concerns an offence, and uses the higher standard: beyond reasonable doubt.
+
+9
+00:00:52,777 --> 00:00:57,248
+Nia: So a broken contract does not automatically mean someone goes to prison.
+
+10
+00:00:57,348 --> 00:01:01,583
+Professor Lex: Correct. Always classify the facts before choosing the rule.
+
+11
+00:01:05,483 --> 00:01:07,949
+Professor Lex: The legislature makes laws.
+
+12
+00:01:07,999 --> 00:01:10,901
+Professor Lex: The executive puts them into action.
+
+13
+00:01:10,951 --> 00:01:15,331
+Professor Lex: And the judiciary resolves disputes, and interprets the law.
+
+14
+00:01:15,581 --> 00:01:19,280
+Kito: So the judge does not usually write every new law from scratch?
+
+15
+00:01:19,380 --> 00:01:26,171
+Professor Lex: Right. But judicial decisions can shape legal principles, especially in common-law systems.
+
+16
+00:01:32,471 --> 00:01:38,485
+Professor Lex: The ratio decidendi is the legal reason necessary for the earlier decision.
+
+17
+00:01:38,585 --> 00:01:42,175
+Professor Lex: Obiter dicta are additional observations.
+
+18
+00:01:42,425 --> 00:01:50,415
+Professor Lex: A precedent may bind a later court when it comes from a superior court, and the material facts are sufficiently similar.
+
+19
+00:01:51,565 --> 00:01:54,721
+Professor Lex: Reverse: the same case goes up on appeal.
+
+20
+00:01:54,771 --> 00:01:59,111
+Professor Lex: Overrule: a later case changes the earlier legal rule.
+
+21
+00:01:59,161 --> 00:02:02,172
+Professor Lex: Distinguish: the important facts differ.
+
+22
+00:02:02,522 --> 00:02:11,166
+Professor Lex: Do not mix these up. Read the facts, identify the court hierarchy, and ask what part of the earlier judgment was necessary.
+
+23
+00:02:14,666 --> 00:02:18,177
+Kito: They never delivered our custom machine. Fine, just pay us cash!
+
+24
+00:02:18,327 --> 00:02:22,508
+Nia: But Kito, that machine is one of a kind. Cash can't buy another one.
+
+25
+00:02:22,758 --> 00:02:27,820
+Professor Lex: Equitable remedies developed because damages are not always adequate.
+
+26
+00:02:28,070 --> 00:02:29,922
+Professor Lex: Specific performance.
+
+27
+00:02:29,922 --> 00:02:31,356
+Professor Lex: An injunction.
+
+28
+00:02:31,356 --> 00:02:32,736
+Professor Lex: Rescission.
+
+29
+00:02:32,736 --> 00:02:34,381
+Professor Lex: Rectification.
+
+30
+00:02:34,631 --> 00:02:39,832
+Professor Lex: These remedies are discretionary, and depend on the legal conditions.
+
+31
+00:02:39,982 --> 00:02:44,821
+Nia: So I must not assume every claimant automatically gets the remedy they request.
+
+32
+00:02:48,921 --> 00:02:54,998
+Professor Lex: International trade needs cooperation, because different countries may have different laws.
+
+33
+00:02:55,148 --> 00:03:02,608
+Professor Lex: Treaties and conventions can create shared rules. Model laws offer a template for countries to adopt.
+
+34
+00:03:02,758 --> 00:03:06,546
+Professor Lex: UNCITRAL develops harmonised commercial-law texts.
+
+35
+00:03:06,596 --> 00:03:10,966
+Professor Lex: The WTO provides a framework for trade cooperation.
+
+36
+00:03:11,016 --> 00:03:19,181
+Professor Lex: And the ICC develops commercial rules, including Incoterms, and supports commercial dispute resolution.
+
+37
+00:03:20,231 --> 00:03:24,529
+Captain Cargo: Ahoy! And who decides whether our case goes to court, or arbitration?
+
+38
+00:03:24,629 --> 00:03:28,162
+Professor Lex: That depends on the agreement, and the applicable law.
+
+39
+00:03:31,862 --> 00:03:35,725
+Professor Lex: Court adjudication is formal, and usually public.
+
+40
+00:03:35,975 --> 00:03:47,717
+Professor Lex: Arbitration may offer privacy, flexibility and specialist expertise. But it can still be expensive, and its award can only be challenged on limited grounds.
+
+41
+00:03:47,967 --> 00:03:49,149
+Nia: And mediation?
+
+42
+00:03:49,299 --> 00:03:56,459
+Professor Lex: A neutral mediator helps the parties negotiate. The mediator does not normally impose a decision.
+
+43
+00:03:57,609 --> 00:04:04,138
+The Auditor: Quick check. Which mechanism usually has a third party impose a binding decision, under the parties' agreement?
+
+44
+00:04:08,188 --> 00:04:09,629
+The Auditor: Arbitration.
+
+45
+00:04:13,379 --> 00:04:14,972
+Nia: Civil versus criminal.
+
+46
+00:04:15,022 --> 00:04:17,516
+Nia: Legislature, executive, judiciary.
+
+47
+00:04:17,566 --> 00:04:19,337
+Nia: Ratio versus obiter.
+
+48
+00:04:19,387 --> 00:04:21,900
+Nia: Damages versus equitable remedies.
+
+49
+00:04:21,950 --> 00:04:23,695
+Nia: Court versus ADR.
+
+50
+00:04:23,945 --> 00:04:33,465
+Professor Lex: Excellent. Next time, SafariTech's shipment will cross an ocean, and the contract will decide who pays, who delivers, and when risk moves.
+
+51
+00:04:34,315 --> 00:04:36,702
+Captain Cargo: I hope someone chose the right Incoterm!
+
+52
+00:04:37,252 --> 00:04:41,328
+Narrator: Next time: Episode two. The Contract Across the Ocean.
+
