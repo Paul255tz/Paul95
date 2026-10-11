@@ -145,7 +145,7 @@ SCENES = [
         Line("nia4", "NIA", "So nobody hands over goods or money until the paperwork is "
              "right."),
         Pause("hold", 1.4),
-    ], spec={"tpl": "flow", "bg": "bank", "heading": "Documentary letter of credit",
+    ], spec={"tpl": "flow", "bg": "studio", "heading": "Documentary letter of credit",
              "syl": "C1(e)",
              "nodes": [{"id": "B", "x": 650, "y": 300, "label": "Buyer (applicant)",
                         "icon": "person", "color": "#7768ae", "at": "amara4b", "w": 270},

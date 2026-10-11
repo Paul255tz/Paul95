@@ -211,7 +211,7 @@ SCENES = [
         Line("amara6", "AMARA", "That's how our bank can buy the bill today at a discount, "
              "and collect in full in ninety days."),
         Pause("hold", 1.4),
-    ], spec={"tpl": "flow", "bg": "bank", "heading": "Parties to a bill", "syl": "C1(d)",
+    ], spec={"tpl": "flow", "bg": "studio_teal", "heading": "Parties to a bill", "syl": "C1(d)",
              "nodes": [{"id": "dr", "x": 650, "y": 300, "label": "Drawer (SafariTech)",
                         "icon": "company", "color": "#0f8b8d", "at": "lex6a", "w": 290},
                        {"id": "de", "x": 1150, "y": 300, "label": "Drawee → Acceptor",

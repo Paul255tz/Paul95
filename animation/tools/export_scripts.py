@@ -115,7 +115,8 @@ def export(ep, out_dir):
                   f"[`{S.SLUG}.mp4`](../output/{S.SLUG}.mp4)", ""]
     doc = (S.__doc__ or "").strip()
     if doc:
-        lines += ["> " + doc.replace("\n", " ").split(" - ", 1)[-1], ""]
+        body = doc.split("\n\n", 1)[-1] if "\n\n" in doc else doc
+        lines += ["> " + " ".join(body.split()), ""]
     lines += ["**Cast:** " + ", ".join(sorted({DISPLAY_NAMES[b.who] for sc in S.SCENES
                                               for b in sc.beats if isinstance(b, Line)})),
               ""]
@@ -132,7 +133,8 @@ def export(ep, out_dir):
         if spec.get("bg") and spec.get("tpl") not in ("quiz", "route"):
             meta.append(BGS.get(spec["bg"], spec["bg"]))
         if spec.get("syl"):
-            meta.append(f"Syllabus {spec['syl']}")
+            syl = spec["syl"]
+            meta.append(syl if syl.startswith("Syllabus") else f"Syllabus {syl}")
         if meta:
             lines += ["*" + " · ".join(meta) + "*", ""]
         vis = on_screen(spec) if spec else []
