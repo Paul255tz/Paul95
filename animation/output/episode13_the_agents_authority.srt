@@ -1,0 +1,220 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,081
+Narrator: Episode 13. The Agent's Authority
+
+3
+00:00:10,781 --> 00:00:16,767
+Kito: I've hired an agent in Kampala to sign up shops for our kits. If she signs a deal, am I bound?
+
+4
+00:00:16,917 --> 00:00:22,414
+Professor Lex: If she acts within her authority, yes. That is the whole point of agency.
+
+5
+00:00:22,464 --> 00:00:34,567
+Professor Lex: An agent's job is to bring the principal into a legal relationship with a third party. The contract is between the principal and the third party. The agent usually drops out.
+
+6
+00:00:37,867 --> 00:00:41,696
+Professor Lex: Picture a triangle. The principal appoints the agent.
+
+7
+00:00:41,746 --> 00:00:44,797
+Professor Lex: The agent deals with the third party.
+
+8
+00:00:44,847 --> 00:00:50,288
+Professor Lex: And the resulting contract binds the principal and the third party directly.
+
+9
+00:00:50,438 --> 00:00:58,328
+Professor Lex: Agents are everywhere: employees buying supplies, brokers, estate agents. Two matter most in this exam.
+
+10
+00:00:58,378 --> 00:01:05,124
+Professor Lex: Every partner is an agent of the firm and of the other partners, for the firm's usual business.
+
+11
+00:01:05,124 --> 00:01:09,031
+Professor Lex: And company directors act as agents of the company.
+
+12
+00:01:12,531 --> 00:01:15,656
+Professor Lex: Agency can arise in five ways.
+
+13
+00:01:15,706 --> 00:01:23,950
+Professor Lex: By express agreement, written or oral. A power of attorney, giving wide authority, must be made formally in writing.
+
+14
+00:01:23,950 --> 00:01:28,587
+Professor Lex: By implied agreement, from the parties' conduct or relationship.
+
+15
+00:01:28,587 --> 00:01:38,001
+Professor Lex: By ratification, where the principal later adopts a contract made without authority. It works backwards, as if authorised all along.
+
+16
+00:01:38,001 --> 00:01:44,300
+Professor Lex: By estoppel, where the principal holds someone out as its agent, and cannot later deny it.
+
+17
+00:01:44,300 --> 00:01:53,685
+Professor Lex: And by necessity, in a genuine emergency, when the owner of goods cannot be contacted, and someone acts in good faith to protect them.
+
+18
+00:01:53,835 --> 00:01:58,684
+Nia: Like a carrier selling perishable fruit before it rots, when the owner can't be reached.
+
+19
+00:02:02,184 --> 00:02:05,246
+Professor Lex: Ratification has strict conditions.
+
+20
+00:02:05,296 --> 00:02:13,741
+Professor Lex: The agent must have claimed to act for that principal. The principal must have existed, and had capacity, when the contract was made.
+
+21
+00:02:13,791 --> 00:02:19,228
+Professor Lex: And the principal must ratify the whole contract, within a reasonable time.
+
+22
+00:02:19,378 --> 00:02:28,858
+Professor Lex: In Kelner against Baxter, promoters bought wine for a hotel company that had not yet been formed. The company later tried to ratify.
+
+23
+00:02:28,908 --> 00:02:36,506
+Professor Lex: It could not, because it did not exist when the contract was made. The promoters were personally liable to pay.
+
+24
+00:02:37,856 --> 00:02:42,900
+Kito: So I'll register SafariTech Uganda before my agent signs anything in its name!
+
+25
+00:02:46,200 --> 00:02:49,596
+Professor Lex: An agent's authority comes in three kinds.
+
+26
+00:02:49,646 --> 00:02:55,003
+Professor Lex: Express actual authority: what the principal actually said the agent may do.
+
+27
+00:02:55,003 --> 00:03:04,476
+Professor Lex: Implied actual authority: what is incidental to that, or usual for an agent in that position, unless the principal has forbidden it.
+
+28
+00:03:04,476 --> 00:03:14,975
+Professor Lex: And apparent, or ostensible, authority: what the principal has led the third party to believe the agent may do, even if it was never actually given.
+
+29
+00:03:15,125 --> 00:03:26,593
+Professor Lex: Apparent authority needs three things. A representation by the principal, not by the agent. Reliance on it by the third party. And the third party acting on it.
+
+30
+00:03:26,643 --> 00:03:35,636
+Nia: So if Kito tells shops that the agent can sign deals of any size, SafariTech is bound, even if he privately capped her at ten thousand dollars.
+
+31
+00:03:39,136 --> 00:03:49,090
+Professor Lex: In Freeman and Lockyer against Buckhurst Park Properties, a director acted as if he were the managing director, and the board knew and let him.
+
+32
+00:03:49,140 --> 00:03:55,752
+Professor Lex: He hired architects for the company. The company refused to pay, saying he had never been appointed.
+
+33
+00:03:55,802 --> 00:04:04,197
+Professor Lex: The court held the company liable. By allowing him to act as managing director, it represented that he had that authority.
+
+34
+00:04:05,547 --> 00:04:16,576
+Professor Lex: Compare Hely-Hutchinson against Brayhead. A chairman acting as chief executive had implied actual authority, from the board's acceptance of his role.
+
+35
+00:04:20,077 --> 00:04:30,068
+Professor Lex: When an agent acts within actual or apparent authority, the principal is liable on the contract, and the agent usually cannot sue or be sued on it.
+
+36
+00:04:30,218 --> 00:04:34,281
+Professor Lex: But the agent can be personally liable in some cases.
+
+37
+00:04:34,281 --> 00:04:41,923
+Professor Lex: If it acted without authority, it is liable for breach of warranty of authority, as in Collen against Wright.
+
+38
+00:04:41,923 --> 00:04:48,788
+Professor Lex: If it hid the principal's existence, the third party may sue the agent, or the principal once discovered.
+
+39
+00:04:48,788 --> 00:04:53,545
+Professor Lex: If the principal did not exist, as with pre-incorporation contracts.
+
+40
+00:04:53,545 --> 00:04:58,911
+Professor Lex: Or if trade custom, or the form of the contract, makes the agent liable.
+
+41
+00:04:59,061 --> 00:05:11,681
+Professor Lex: And an agency ends by agreement, by revocation, or automatically on death, insanity, or the principal's bankruptcy. But tell third parties, or apparent authority may linger.
+
+42
+00:05:15,581 --> 00:05:21,231
+The Auditor: Quick check. For apparent authority, who must make the representation that the agent has authority?
+
+43
+00:05:26,281 --> 00:05:27,527
+The Auditor: The principal.
+
+44
+00:05:27,677 --> 00:05:34,122
+Professor Lex: In Freeman and Lockyer, it was the company's own conduct that created the representation.
+
+45
+00:05:38,072 --> 00:05:41,834
+The Auditor: And why could the company in Kelner against Baxter not ratify?
+
+46
+00:05:45,884 --> 00:05:48,590
+The Auditor: It did not exist when the contract was made.
+
+47
+00:05:52,140 --> 00:05:54,281
+Nia: Principal, agent, third party.
+
+48
+00:05:54,331 --> 00:05:56,327
+Nia: Five ways to create agency.
+
+49
+00:05:56,377 --> 00:05:59,026
+Nia: Ratify only if the principal existed.
+
+50
+00:05:59,076 --> 00:06:01,695
+Nia: Express, implied and apparent authority.
+
+51
+00:06:01,745 --> 00:06:04,975
+Nia: Agent liable for breach of warranty of authority.
+
+52
+00:06:05,025 --> 00:06:10,670
+Professor Lex: Next time: partnerships, where every partner is both a principal and an agent.
+
+53
+00:06:10,720 --> 00:06:12,686
+Kito: Nia, how would you like to be my partner?
+
+54
+00:06:12,736 --> 00:06:14,942
+Nia: Let's watch the next episode first!
+
+55
+00:06:15,292 --> 00:06:18,988
+Narrator: Next time: Episode 14. Partners in Business.
+
