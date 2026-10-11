@@ -1,0 +1,200 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,472
+Narrator: Episode 24. Meetings and Resolutions
+
+3
+00:00:11,172 --> 00:00:16,476
+Hans: I bought ten percent of Safari Solar. So when is the annual general meeting?
+
+4
+00:00:16,626 --> 00:00:18,822
+Kito: Do private companies even have those?
+
+5
+00:00:18,972 --> 00:00:26,408
+Professor Lex: Good question. The members make their decisions through general meetings and resolutions. Let's see the rules.
+
+6
+00:00:29,709 --> 00:00:33,970
+Professor Lex: A general meeting is any meeting of the company's members.
+
+7
+00:00:34,020 --> 00:00:42,235
+Professor Lex: A public company must also hold an annual general meeting, within six months after its financial year end.
+
+8
+00:00:42,285 --> 00:00:51,601
+Professor Lex: Typical AGM business: laying the accounts and reports, electing directors, appointing the auditor, and declaring a dividend.
+
+9
+00:00:51,751 --> 00:01:02,016
+Professor Lex: A private company does not need an AGM, unless its articles require one. It can take most decisions by written resolution instead.
+
+10
+00:01:02,166 --> 00:01:07,016
+Hans: So I may never get a meeting, but I still get a vote on the resolutions.
+
+11
+00:01:10,516 --> 00:01:14,054
+Professor Lex: Normally, the directors call general meetings.
+
+12
+00:01:14,104 --> 00:01:27,016
+Professor Lex: But members holding at least five percent of the paid-up voting capital can require them to. The directors must call it within twenty-one days, for a date within twenty-eight days of the notice.
+
+13
+00:01:27,066 --> 00:01:32,401
+Professor Lex: If they don't, those members can call it themselves, at the company's expense.
+
+14
+00:01:32,451 --> 00:01:38,988
+Professor Lex: A court can order a meeting where it's impractical to call one, for example to break a deadlock.
+
+15
+00:01:39,038 --> 00:01:42,577
+Professor Lex: And a resigning auditor can require one too.
+
+16
+00:01:42,727 --> 00:01:46,469
+Hans: Ten percent! So I could force a meeting if I needed to.
+
+17
+00:01:49,969 --> 00:01:52,460
+Professor Lex: Members must get proper notice.
+
+18
+00:01:52,460 --> 00:01:56,177
+Professor Lex: At least fourteen clear days for a general meeting.
+
+19
+00:01:56,127 --> 00:02:00,114
+Professor Lex: Twenty-one days for a public company's AGM.
+
+20
+00:02:00,064 --> 00:02:12,449
+Professor Lex: Short notice is possible, if enough members agree: ninety percent in a private company, ninety-five in a public one. For a public company's AGM, every member must agree.
+
+21
+00:02:12,399 --> 00:02:19,892
+Professor Lex: And special notice, twenty-eight days to the company, for resolutions to remove a director or an auditor.
+
+22
+00:02:20,042 --> 00:02:30,663
+Professor Lex: The notice states the date, time, place, and general nature of the business, the full text of any special resolution, and members' rights to appoint proxies.
+
+23
+00:02:34,163 --> 00:02:45,309
+Professor Lex: An ordinary resolution needs a simple majority, more than fifty percent of the votes cast. It is the default, for example to appoint or remove a director.
+
+24
+00:02:45,359 --> 00:03:01,839
+Professor Lex: A special resolution needs at least seventy-five percent. It is needed to change the articles, change the name, reduce capital, or wind up voluntarily. Its exact text must be in the notice, and a copy filed within fifteen days.
+
+25
+00:03:01,889 --> 00:03:14,829
+Professor Lex: A written resolution is for private companies only. It is circulated, and passes when enough of all eligible members sign: a majority for ordinary, seventy-five percent for special.
+
+26
+00:03:14,879 --> 00:03:22,217
+Professor Lex: But a written resolution cannot remove a director or an auditor, and the auditor must receive a copy.
+
+27
+00:03:22,367 --> 00:03:26,873
+Nia: So a written resolution counts all the members, not just the ones who turn up.
+
+28
+00:03:30,373 --> 00:03:42,020
+Professor Lex: A meeting needs a quorum, the minimum number present for valid business. Unless the articles say otherwise, it is two qualifying persons, or one for a single-member company.
+
+29
+00:03:42,070 --> 00:03:47,169
+Professor Lex: If there's no quorum, the meeting is adjourned, as the articles provide.
+
+30
+00:03:47,319 --> 00:03:58,335
+Professor Lex: Every member may appoint a proxy, who need not be a member, to attend, speak and vote for them, on a show of hands and on a poll. A proxy can also demand a poll.
+
+31
+00:03:58,385 --> 00:04:07,655
+Professor Lex: The company cannot require proxy forms more than forty-eight hours before the meeting. And a corporate member appoints a representative.
+
+32
+00:04:07,805 --> 00:04:11,325
+Hans: Perfect. When I'm in Hamburg, Nia can be my proxy!
+
+33
+00:04:14,826 --> 00:04:21,016
+Professor Lex: Voting starts with a show of hands: one vote per person present, whatever their shareholding.
+
+34
+00:04:21,066 --> 00:04:28,051
+Professor Lex: A poll counts votes by shares, usually one vote per share. So big shareholders often demand one.
+
+35
+00:04:28,101 --> 00:04:41,711
+Professor Lex: The articles cannot stop a poll being demanded by five or more members, or by members holding ten percent of the voting rights, or ten percent of the paid-up capital. The chair can also call one.
+
+36
+00:04:41,861 --> 00:04:45,316
+Professor Lex: And abstentions count neither for nor against.
+
+37
+00:04:45,366 --> 00:04:48,962
+Kito: On a show of hands Hans equals me. On a poll, I win easily!
+
+38
+00:04:52,862 --> 00:04:56,283
+The Auditor: Quick check. Which of these cannot be done by written resolution?
+
+39
+00:05:01,333 --> 00:05:03,094
+The Auditor: Removing a director.
+
+40
+00:05:03,245 --> 00:05:08,874
+Professor Lex: Removal of a director or auditor must be at a meeting, with special notice
+
+41
+00:05:12,824 --> 00:05:15,822
+The Auditor: And what majority does a special resolution need?
+
+42
+00:05:19,872 --> 00:05:21,966
+The Auditor: At least seventy-five percent.
+
+43
+00:05:25,516 --> 00:05:28,817
+Nia: Public companies hold AGMs within six months.
+
+44
+00:05:28,867 --> 00:05:31,662
+Nia: Members with five percent can force a meeting.
+
+45
+00:05:31,712 --> 00:05:35,725
+Nia: Fourteen days' notice; twenty-one for a plc AGM.
+
+46
+00:05:35,775 --> 00:05:38,810
+Nia: Ordinary over fifty, special seventy-five.
+
+47
+00:05:38,860 --> 00:05:40,713
+Nia: Proxies, quorum, and polls.
+
+48
+00:05:40,763 --> 00:05:46,089
+Professor Lex: Next time, the darkest day for any company: insolvency, and winding up.
+
+49
+00:05:46,139 --> 00:05:48,702
+Kito: Let's hope Safari Solar never needs that one.
+
+50
+00:05:49,052 --> 00:05:52,111
+Narrator: Next time: Episode 25. Winding Up.
+
