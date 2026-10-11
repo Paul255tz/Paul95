@@ -1,3 +1,6 @@
 animation/build/
 animation/models
 __pycache__/
+node_modules/
+animation3d/node_modules/
+animation3d/build/

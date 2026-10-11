@@ -105,6 +105,8 @@ def main():
     ap.add_argument("--preview", type=float, nargs="*",
                     help="render PNG stills at these global times (seconds) and exit")
     ap.add_argument("--no-music", action="store_true")
+    ap.add_argument("--audio-only", action="store_true",
+                    help="write timeline, mixed audio and subtitles only (used by ../animation3d)")
     a = ap.parse_args()
     height = a.width * 9 // 16
     os.makedirs(a.build, exist_ok=True)
@@ -139,6 +141,9 @@ def main():
     sf.write(wav, mix, SR)
     srt = os.path.join(a.out, "episode1_who_makes_the_rules.srt")
     write_srt(tl, srt)
+    if a.audio_only:
+        print("wrote", wav, "and", srt)
+        return
 
     # video segments in parallel (longest scenes first)
     order = sorted(range(len(tl["scenes"])), key=lambda i: -tl["scenes"][i]["dur"])
