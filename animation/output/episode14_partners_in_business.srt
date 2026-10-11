@@ -1,0 +1,276 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,030
+Narrator: Episode 14. Partners in Business
+
+3
+00:00:10,730 --> 00:00:16,117
+Kito: Nia, let's sell solar lamps in Arusha on weekends. Fifty-fifty. No paperwork needed!
+
+4
+00:00:16,267 --> 00:00:18,856
+Nia: No paperwork... but are we a partnership?
+
+5
+00:00:18,906 --> 00:00:34,905
+Professor Lex: Very likely. A partnership is the relationship between persons carrying on a business in common, with a view of profit. That is the definition in the English Partnership Act of 1890, which the exam uses.
+
+6
+00:00:34,955 --> 00:00:43,499
+Professor Lex: No formality is needed. If your arrangement fits the definition, the law treats you as partners, whatever you call yourselves.
+
+7
+00:00:46,799 --> 00:00:49,157
+Professor Lex: Break the definition down.
+
+8
+00:00:49,207 --> 00:00:53,566
+Professor Lex: Persons: at least two. They can be individuals, or companies.
+
+9
+00:00:53,566 --> 00:00:57,353
+Professor Lex: A business: any trade, occupation or profession.
+
+10
+00:00:57,353 --> 00:01:04,316
+Professor Lex: Carried on: it should be continuing, not a one-off deal, although a single venture can sometimes count.
+
+11
+00:01:04,316 --> 00:01:08,124
+Professor Lex: In common: run for the benefit of all the partners.
+
+12
+00:01:08,124 --> 00:01:16,360
+Professor Lex: With a view of profit. Sharing profits is strong evidence of a partnership, but merely sharing gross takings is not.
+
+13
+00:01:16,510 --> 00:01:21,932
+Nia: And in England, a partnership is not a separate legal person. The partners are the firm.
+
+14
+00:01:25,432 --> 00:01:30,780
+Professor Lex: Partners can agree almost anything. Where they haven't, the Act fills the gaps.
+
+15
+00:01:30,830 --> 00:01:34,871
+Professor Lex: Capital and profits are shared equally, and losses too.
+
+16
+00:01:34,871 --> 00:01:42,037
+Professor Lex: No interest on capital, but five percent a year on loans a partner makes beyond agreed capital.
+
+17
+00:01:42,037 --> 00:01:48,122
+Professor Lex: Every partner may take part in management, but no partner is entitled to a salary.
+
+18
+00:01:48,122 --> 00:01:53,437
+Professor Lex: A partner is indemnified for liabilities properly incurred for the firm.
+
+19
+00:01:53,437 --> 00:02:02,150
+Professor Lex: Ordinary matters are decided by majority. But changing the business, or admitting a new partner, needs everyone's consent.
+
+20
+00:02:02,150 --> 00:02:13,794
+Professor Lex: The books are open to every partner. No expulsion unless the agreement allows it. And secret profits, or profits from a competing business, must be handed over to the firm.
+
+21
+00:02:13,944 --> 00:02:16,680
+Kito: Fifty-fifty works for me. But no salary? Hmm.
+
+22
+00:02:20,181 --> 00:02:29,446
+Professor Lex: Every partner is an agent of the firm, and of the other partners, for carrying on business of the kind the firm does, in the usual way.
+
+23
+00:02:29,496 --> 00:02:38,454
+Professor Lex: So the firm is bound, unless the partner had no authority, and the third party knew that, or did not know or believe he was a partner.
+
+24
+00:02:38,604 --> 00:02:46,092
+Professor Lex: A partner using the firm's credit for private purposes does not bind the firm, unless the others authorised it.
+
+25
+00:02:46,142 --> 00:02:54,894
+Professor Lex: And anyone who lets themselves be held out as a partner is liable, like a partner, to those who gave credit on that basis.
+
+26
+00:02:55,044 --> 00:03:01,463
+Nia: So if Kito orders lamps for Safari Solar, I'm bound too, even if we agreed only I would order.
+
+27
+00:03:04,963 --> 00:03:15,565
+Professor Lex: In an ordinary partnership, liability is unlimited. Partners are jointly liable for the firm's debts, and jointly and severally liable for its wrongs.
+
+28
+00:03:15,615 --> 00:03:23,490
+Professor Lex: In practice, a creditor can pursue any partner for the whole debt, and that partner claims a contribution from the others.
+
+29
+00:03:23,640 --> 00:03:28,397
+Professor Lex: A new partner is not liable for debts incurred before joining.
+
+30
+00:03:28,397 --> 00:03:33,337
+Professor Lex: A retiring partner stays liable for debts incurred while a partner.
+
+31
+00:03:33,337 --> 00:03:44,386
+Professor Lex: And for debts incurred after retiring, unless notice was given: actual notice to existing customers, and a public notice in the Gazette for everyone else.
+
+32
+00:03:44,386 --> 00:03:51,226
+Professor Lex: A retiring partner can be released from old debts by novation, a new agreement with the creditor.
+
+33
+00:03:54,726 --> 00:04:09,178
+Professor Lex: Unless agreed otherwise, a partnership is dissolved automatically when its fixed term ends, its single venture is complete, a partner gives notice in a partnership at will, or a partner dies or becomes bankrupt.
+
+34
+00:04:09,228 --> 00:04:17,848
+Professor Lex: Also if the business becomes illegal. And if a partner's share is charged for a private debt, the others may choose to dissolve.
+
+35
+00:04:17,998 --> 00:04:32,309
+Professor Lex: A court may order dissolution for a partner's permanent incapacity, conduct prejudicial to the business, persistent breach of the agreement, when the business can only run at a loss, or when it is just and equitable.
+
+36
+00:04:32,459 --> 00:04:36,764
+Nia: So the first group happens automatically, but the second group needs a judge.
+
+37
+00:04:40,263 --> 00:04:47,492
+Professor Lex: On dissolution, the partners have authority to wind up the firm. Then the assets are paid out in this order.
+
+38
+00:04:47,543 --> 00:04:49,825
+Professor Lex: First, outside creditors.
+
+39
+00:04:49,825 --> 00:04:53,739
+Professor Lex: Second, partners' loans and advances to the firm.
+
+40
+00:04:53,739 --> 00:04:56,137
+Professor Lex: Third, each partner's capital.
+
+41
+00:04:56,137 --> 00:05:00,644
+Professor Lex: Fourth, anything left is shared in the profit-sharing ratio.
+
+42
+00:05:00,794 --> 00:05:14,983
+Professor Lex: Losses are met from profits, then capital, and then by the partners personally. If one partner cannot pay a capital deficiency, the others bear it in proportion to their capital, under Garner against Murray.
+
+43
+00:05:21,633 --> 00:05:24,787
+Professor Lex: Two variations limit liability.
+
+44
+00:05:24,837 --> 00:05:37,461
+Professor Lex: A limited partnership, under the 1907 Act, needs at least one general partner with unlimited liability, and at least one limited partner. It must be registered.
+
+45
+00:05:37,512 --> 00:05:48,606
+Professor Lex: The limited partner's liability is limited to its capital. But it must not take part in management, or it loses that protection, and it cannot withdraw its capital.
+
+46
+00:05:48,756 --> 00:05:58,103
+Professor Lex: A limited liability partnership, under the 2000 Act, is different. It is a separate legal person, registered like a company.
+
+47
+00:05:58,153 --> 00:06:07,724
+Professor Lex: Members' liability is limited. It must file accounts, usually audited, and the rules on fraudulent and wrongful trading still apply.
+
+48
+00:06:07,874 --> 00:06:12,865
+Kito: And Kenya has its own Partnerships Act, and a Limited Liability Partnerships Act, too!
+
+49
+00:06:16,365 --> 00:06:19,381
+Professor Lex: Other systems have their own versions.
+
+50
+00:06:19,431 --> 00:06:25,363
+Professor Lex: In France, a société en nom collectif works like a general partnership.
+
+51
+00:06:25,363 --> 00:06:30,513
+Professor Lex: And a société en commandite simple is like a limited partnership.
+
+52
+00:06:30,513 --> 00:06:38,629
+Professor Lex: Islamic law recognises musharakah, where partners pool capital and share profits, losses and decisions.
+
+53
+00:06:38,629 --> 00:06:46,716
+Professor Lex: Mudarabah, where one partner provides capital and the other manages, sharing profit instead of paying interest.
+
+54
+00:06:46,716 --> 00:06:54,131
+Professor Lex: And shirkah al-inan, where partners invest and share profits, but are not liable for each other's debts.
+
+55
+00:06:54,281 --> 00:06:58,502
+Nia: Mudarabah sounds like a limited partnership, but without interest.
+
+56
+00:07:02,402 --> 00:07:05,966
+The Auditor: Quick check. With no partnership agreement, how are profits shared?
+
+57
+00:07:11,016 --> 00:07:11,989
+The Auditor: Equally.
+
+58
+00:07:12,139 --> 00:07:15,950
+Professor Lex: And there is no salary, and no interest on capital
+
+59
+00:07:19,900 --> 00:07:24,013
+The Auditor: And if a limited partner starts managing the business, what is the risk?
+
+60
+00:07:28,063 --> 00:07:30,504
+The Auditor: It may lose its limited liability.
+
+61
+00:07:34,054 --> 00:07:36,645
+Nia: Business in common with a view of profit.
+
+62
+00:07:36,695 --> 00:07:39,612
+Nia: Default rules: equal shares, no salary.
+
+63
+00:07:39,662 --> 00:07:42,087
+Nia: Every partner is an agent of the firm.
+
+64
+00:07:42,137 --> 00:07:43,949
+Nia: Retiring? Give notice.
+
+65
+00:07:43,999 --> 00:07:46,462
+Nia: Limited partnership versus LLP.
+
+66
+00:07:46,512 --> 00:07:53,225
+Professor Lex: Next time, the biggest idea in company law: a company is a person, separate from its owners.
+
+67
+00:07:53,275 --> 00:07:55,804
+Kito: A company is a person? Does it get a birthday?
+
+68
+00:07:55,854 --> 00:07:59,320
+Professor Lex: In a way, yes. Its date of incorporation.
+
+69
+00:07:59,670 --> 00:08:03,334
+Narrator: Next time: Episode 15. Behind the Corporate Veil.
+

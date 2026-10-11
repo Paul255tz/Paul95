@@ -1,0 +1,208 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,084
+Narrator: Episode 15. Behind the Corporate Veil
+
+3
+00:00:10,784 --> 00:00:16,277
+Nia: Safari Solar is growing fast. But if a lamp starts a fire, could they take my house?
+
+4
+00:00:16,427 --> 00:00:19,103
+Kito: As partners, yes! Our liability is unlimited.
+
+5
+00:00:19,253 --> 00:00:26,435
+Professor Lex: Which is why most growing businesses become companies. Let's compare the three main ways to run a business.
+
+6
+00:00:29,736 --> 00:00:38,371
+Professor Lex: A sole trader is one person in business alone. No formality, full control, but unlimited personal liability.
+
+7
+00:00:38,521 --> 00:00:47,843
+Professor Lex: A partnership shares the work and the profits. Still little formality, and, in an ordinary partnership, still unlimited liability.
+
+8
+00:00:47,993 --> 00:00:59,253
+Professor Lex: A company is a separate legal person. It owns its property, makes its own contracts, and lives on when members change. Members usually have limited liability.
+
+9
+00:00:59,303 --> 00:01:05,625
+Professor Lex: In exchange: formal registration, publicity, filing accounts, and more regulation.
+
+10
+00:01:05,775 --> 00:01:12,862
+Nia: And a company can raise money more easily. It can give lenders a floating charge, which partners generally cannot.
+
+11
+00:01:16,361 --> 00:01:20,147
+Professor Lex: A corporation is an artificial legal person.
+
+12
+00:01:20,197 --> 00:01:28,710
+Professor Lex: A corporation sole is a single office holder, like a mayor or a bishop. The office continues when the person changes.
+
+13
+00:01:28,710 --> 00:01:34,892
+Professor Lex: A corporation aggregate is a group of people forming one legal person, like a company.
+
+14
+00:01:34,892 --> 00:01:44,860
+Professor Lex: Corporations can be created by royal charter, by a special statute, or, far more commonly, by registration under the Companies Act.
+
+15
+00:01:45,010 --> 00:02:00,101
+Professor Lex: Limited liability means a member's liability is limited to any amount unpaid on their shares, or, in a guarantee company, the amount they guaranteed. The company itself is still fully liable for its own debts.
+
+16
+00:02:00,151 --> 00:02:04,130
+Kito: So Safari Solar Limited could go bust, but our houses would be safe!
+
+17
+00:02:07,630 --> 00:02:16,718
+Professor Lex: Companies may be limited by shares, limited by guarantee, or even unlimited. Most are private companies limited by shares.
+
+18
+00:02:16,868 --> 00:02:25,082
+Professor Lex: A public company must be limited by shares, say it is public in its constitution, and end its name with p l c.
+
+19
+00:02:25,132 --> 00:02:36,699
+Professor Lex: It needs allotted share capital of at least fifty thousand pounds, at least a quarter paid up, plus any premium. And it cannot trade until it receives a trading certificate.
+
+20
+00:02:36,749 --> 00:02:45,411
+Professor Lex: It needs at least two directors, and a qualified company secretary. And only a public company may offer its shares to the public.
+
+21
+00:02:45,561 --> 00:02:51,627
+Professor Lex: A private company needs just one director, no secretary, and no minimum capital.
+
+22
+00:02:51,777 --> 00:02:56,471
+Nia: And in Kenya and Tanzania, a private company can have at most fifty members.
+
+23
+00:02:59,971 --> 00:03:03,313
+Professor Lex: Most countries have the same two-way split.
+
+24
+00:03:03,363 --> 00:03:09,060
+Professor Lex: In France, the société anonyme, or S A, is like a public company.
+
+25
+00:03:09,060 --> 00:03:17,599
+Professor Lex: And the S A R L is like a private company. Its capital is divided into parts that cannot be sold to the public.
+
+26
+00:03:17,599 --> 00:03:24,145
+Professor Lex: In Germany, the A G is like a public company, and the G m b H like a private one.
+
+27
+00:03:24,145 --> 00:03:35,044
+Professor Lex: The European Company, the S E, is a public company for groups operating across the EU, with minimum capital of a hundred and twenty thousand euros.
+
+28
+00:03:35,044 --> 00:03:42,221
+Professor Lex: And in Islamic law, there is no separate corporate form of its own, although partnership forms are recognised.
+
+29
+00:03:42,371 --> 00:03:46,501
+Hans: My company is a G m b H. Now you know it's private!
+
+30
+00:03:50,001 --> 00:03:59,495
+Professor Lex: The leading case is Salomon against Salomon and Company, decided by the House of Lords in 1897.
+
+31
+00:03:59,545 --> 00:04:09,415
+Professor Lex: Mr Salomon sold his boot business to a company he formed. He held almost all the shares, and was also a secured creditor, through debentures.
+
+32
+00:04:09,465 --> 00:04:15,617
+Professor Lex: When the company failed, the liquidator argued the company was just Salomon in disguise.
+
+33
+00:04:15,667 --> 00:04:24,476
+Professor Lex: The Lords disagreed. The company was a separate person, properly formed. Salomon, as a secured creditor, was paid first.
+
+34
+00:04:25,826 --> 00:04:40,414
+Professor Lex: Other cases follow the same logic. In Macaura, a shareholder could not insure the company's timber, because it was not his. And in Lee against Lee's Air Farming, a director could also be his company's employee.
+
+35
+00:04:43,914 --> 00:04:51,379
+Professor Lex: Separate personality is a veil between a company and its members. Occasionally the courts look behind it.
+
+36
+00:04:51,429 --> 00:05:09,276
+Professor Lex: Where a company is a sham, used to evade a legal obligation. In Gilford Motor against Horne, a former employee set up a company to dodge his non-compete promise. And in Jones against Lipman, a seller transferred a house to his company to avoid selling it.
+
+37
+00:05:09,276 --> 00:05:15,944
+Professor Lex: In wartime, to find a company's enemy character, as in Daimler against Continental Tyre.
+
+38
+00:05:15,944 --> 00:05:26,007
+Professor Lex: Under statute: fraudulent and wrongful trading, a plc trading without its certificate, reusing a failed company's name, and group accounts.
+
+39
+00:05:26,157 --> 00:05:41,429
+Professor Lex: But courts are reluctant. In Adams against Cape Industries, they refused to treat a group as one entity. And Prest against Petrodel confirmed the veil is lifted only to stop evasion of an existing obligation.
+
+40
+00:05:41,479 --> 00:05:45,769
+The Auditor: Exam tip: Salomon is the rule. Lifting the veil is the exception.
+
+41
+00:05:49,669 --> 00:05:52,890
+The Auditor: Quick check. What did Salomon against Salomon establish?
+
+42
+00:05:57,940 --> 00:06:01,961
+The Auditor: A properly formed company is a person, separate from its members.
+
+43
+00:06:05,911 --> 00:06:09,686
+The Auditor: And what is the minimum allotted share capital of a public company?
+
+44
+00:06:13,736 --> 00:06:16,683
+The Auditor: Fifty thousand pounds, at least a quarter paid up.
+
+45
+00:06:20,233 --> 00:06:22,529
+Nia: Company: a separate legal person.
+
+46
+00:06:22,579 --> 00:06:24,983
+Nia: Limited liability protects members.
+
+47
+00:06:25,033 --> 00:06:28,772
+Nia: Public companies: plc, fifty thousand, certificate.
+
+48
+00:06:28,821 --> 00:06:30,260
+Nia: Salomon is the rule.
+
+49
+00:06:30,310 --> 00:06:32,228
+Nia: Lifting the veil is the exception.
+
+50
+00:06:32,278 --> 00:06:40,964
+Professor Lex: Next time, we form Safari Solar Limited, step by step: promoters, pre-incorporation contracts, and registration.
+
+51
+00:06:41,014 --> 00:06:42,889
+Kito: I'll be the promoter! What could go wrong?
+
+52
+00:06:43,239 --> 00:06:46,654
+Narrator: Next time: Episode 16. Birth of a Company.
+
