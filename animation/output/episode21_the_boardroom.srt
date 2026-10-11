@@ -1,0 +1,212 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,548
+Narrator: Episode 21. The Boardroom
+
+3
+00:00:10,248 --> 00:00:18,241
+Kito: Welcome to Safari Solar's first board meeting! I'm managing director, Nia is finance director, and Amara joins us from the bank.
+
+4
+00:00:18,391 --> 00:00:23,201
+Amara: As a non-executive director. I'm here to challenge, not to run the factory.
+
+5
+00:00:23,351 --> 00:00:33,141
+Professor Lex: Directors manage the company's business, collectively, as a board. They act as the company's agents, and the articles give them their powers.
+
+6
+00:00:36,441 --> 00:00:42,329
+Professor Lex: A director is anyone occupying the position of director, whatever they're called.
+
+7
+00:00:42,379 --> 00:00:49,269
+Professor Lex: Executive directors work in the business, usually under service contracts, like Kito and Nia.
+
+8
+00:00:49,269 --> 00:00:57,909
+Professor Lex: Non-executive directors bring independent judgement, monitor the executives, and are central to good corporate governance.
+
+9
+00:00:57,909 --> 00:01:01,539
+Professor Lex: A de jure director is validly appointed.
+
+10
+00:01:01,539 --> 00:01:08,255
+Professor Lex: A de facto director acts as a director without a valid appointment, and is treated as one.
+
+11
+00:01:08,255 --> 00:01:17,650
+Professor Lex: A shadow director is someone whose instructions the directors are accustomed to follow. Professional advice alone doesn't count.
+
+12
+00:01:17,650 --> 00:01:24,065
+Professor Lex: And an alternate director stands in for a director who can't attend, if the articles allow.
+
+13
+00:01:24,215 --> 00:01:28,231
+Nia: So a hidden boss pulling the strings can still owe directors' duties.
+
+14
+00:01:31,731 --> 00:01:41,397
+Professor Lex: A private company needs at least one director, and a public company at least two. At least one must be a real person, aged at least sixteen.
+
+15
+00:01:41,447 --> 00:01:54,500
+Professor Lex: The first directors are named in the registration documents. After that, the articles decide. Under the model articles, directors are appointed by ordinary resolution, or by the board.
+
+16
+00:01:54,550 --> 00:02:08,559
+Professor Lex: In a public company, each appointment at a general meeting needs its own resolution, unless members unanimously agree otherwise. Many listed companies put every director up for re-election each year.
+
+17
+00:02:08,609 --> 00:02:18,297
+Professor Lex: The registrar must be told within fourteen days. And in the UK, directors must now verify their identity with Companies House.
+
+18
+00:02:18,447 --> 00:02:22,233
+Amara: And under our loan agreement, the bank may nominate one director.
+
+19
+00:02:25,732 --> 00:02:36,843
+Professor Lex: A director leaves office by resigning, by retiring, on death, on disqualification or bankruptcy, on medical grounds under the articles, or by removal.
+
+20
+00:02:36,993 --> 00:02:44,807
+Professor Lex: Members can always remove a director by ordinary resolution, whatever the articles or any contract say.
+
+21
+00:02:44,857 --> 00:02:51,807
+Professor Lex: Special notice of the resolution must reach the company at least twenty-eight days before the meeting.
+
+22
+00:02:51,807 --> 00:02:56,508
+Professor Lex: The company tells the members, usually with twenty-one days' notice.
+
+23
+00:02:56,508 --> 00:03:02,019
+Professor Lex: The director may circulate written representations, and speak at the meeting.
+
+24
+00:03:02,019 --> 00:03:07,059
+Professor Lex: And it must be a meeting. A written resolution cannot remove a director.
+
+25
+00:03:07,209 --> 00:03:15,999
+Professor Lex: A removed director may still claim compensation for breach of a service contract, as in Southern Foundries against Shirlaw.
+
+26
+00:03:19,499 --> 00:03:21,695
+Kito: So the shareholders could fire me anytime?
+
+27
+00:03:21,745 --> 00:03:25,086
+Professor Lex: In principle. But look at Bushell against Faith.
+
+28
+00:03:25,136 --> 00:03:35,633
+Professor Lex: Three siblings held a hundred shares each. The articles said that on a resolution to remove a director, that director's shares carried three votes each.
+
+29
+00:03:35,683 --> 00:03:44,612
+Professor Lex: When the other two tried to remove their brother, he had three hundred votes against their two hundred. The House of Lords upheld the clause.
+
+30
+00:03:45,962 --> 00:03:52,574
+Professor Lex: So in small private companies, weighted voting rights can protect a director from removal.
+
+31
+00:03:56,074 --> 00:04:03,863
+Professor Lex: Under the Company Directors Disqualification Act, a court can ban unfit people from acting as directors.
+
+32
+00:04:03,913 --> 00:04:10,050
+Professor Lex: After a conviction for a serious offence connected with a company: up to fifteen years.
+
+33
+00:04:10,050 --> 00:04:16,370
+Professor Lex: For persistent breaches of filing rules, three defaults in five years: up to five years.
+
+34
+00:04:16,370 --> 00:04:22,328
+Professor Lex: For fraud in a winding up, or fraudulent or wrongful trading: up to fifteen years.
+
+35
+00:04:22,328 --> 00:04:31,468
+Professor Lex: And for unfit conduct as a director of an insolvent company, a court must disqualify, for at least two years and up to fifteen.
+
+36
+00:04:31,618 --> 00:04:44,472
+Professor Lex: A disqualified person cannot act as a director, or take part in managing a company, without the court's permission. Breach is a crime, with personal liability for the company's debts.
+
+37
+00:04:47,972 --> 00:04:56,746
+Professor Lex: The articles give management power to the board, acting collectively. Members can only direct them by special resolution.
+
+38
+00:04:56,796 --> 00:05:05,064
+Professor Lex: The board can delegate to committees, or to a managing director, who has authority to make the usual management contracts.
+
+39
+00:05:05,114 --> 00:05:15,352
+Professor Lex: An individual director has no authority alone, unless it is delegated, or the company lets them appear to have it, as in Freeman and Lockyer.
+
+40
+00:05:15,502 --> 00:05:26,074
+Professor Lex: Outsiders get extra protection. For a third party dealing in good faith, the directors' power to bind the company is free of limits in the constitution.
+
+41
+00:05:26,124 --> 00:05:33,684
+Professor Lex: And under the rule in Turquand's case, an outsider may assume the company's internal procedures were followed.
+
+42
+00:05:37,585 --> 00:05:42,027
+The Auditor: Quick check. Members want to remove a director. Which statement is correct?
+
+43
+00:05:47,077 --> 00:05:50,687
+The Auditor: An ordinary resolution, with special notice, at a meeting.
+
+44
+00:05:54,637 --> 00:05:59,847
+The Auditor: And someone not appointed, whose instructions the board habitually follows, is called what?
+
+45
+00:06:03,897 --> 00:06:05,612
+The Auditor: A shadow director.
+
+46
+00:06:09,162 --> 00:06:12,282
+Nia: Executive, non-executive, de facto, shadow.
+
+47
+00:06:12,332 --> 00:06:15,239
+Nia: Appointed under the articles; registrar told.
+
+48
+00:06:15,289 --> 00:06:18,823
+Nia: Removed by ordinary resolution with special notice.
+
+49
+00:06:18,873 --> 00:06:21,482
+Nia: Disqualification: up to fifteen years.
+
+50
+00:06:21,532 --> 00:06:24,154
+Nia: Board, MD, and apparent authority.
+
+51
+00:06:24,204 --> 00:06:29,612
+Professor Lex: Next time, the heart of it all: the duties every director owes the company.
+
+52
+00:06:29,662 --> 00:06:31,893
+Amara: The part the bank cares about most.
+
+53
+00:06:32,243 --> 00:06:35,780
+Narrator: Next time: Episode 22. Directors' Duties.
+

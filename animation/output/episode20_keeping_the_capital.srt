@@ -1,0 +1,188 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,614
+Narrator: Episode 20. Keeping the Capital
+
+3
+00:00:10,314 --> 00:00:15,024
+Kito: We have five hundred thousand dollars in the bank! Let's pay ourselves a big dividend.
+
+4
+00:00:15,174 --> 00:00:19,864
+The Auditor: Most of that is the bank's loan, and your share capital. Neither is profit.
+
+5
+00:00:20,014 --> 00:00:31,860
+Professor Lex: This is capital maintenance. Creditors lend to a limited company trusting that its capital stays in the business, as a buffer. So the law stops it being handed back to members.
+
+6
+00:00:35,159 --> 00:00:43,501
+Professor Lex: In Trevor against Whitworth, the court said a company's capital must not be returned to members, except as the law allows.
+
+7
+00:00:43,551 --> 00:00:48,184
+Professor Lex: The buffer is share capital plus the undistributable reserves.
+
+8
+00:00:48,184 --> 00:00:50,019
+Professor Lex: Share capital itself.
+
+9
+00:00:49,969 --> 00:00:52,128
+Professor Lex: The share premium account.
+
+10
+00:00:52,078 --> 00:00:56,457
+Professor Lex: The capital redemption reserve, created when shares are bought back.
+
+11
+00:00:56,408 --> 00:01:03,637
+Professor Lex: Unrealised profits, such as revaluation gains, to the extent they exceed unrealised losses.
+
+12
+00:01:03,587 --> 00:01:08,602
+Professor Lex: And any other reserve the law or the articles say cannot be distributed.
+
+13
+00:01:08,752 --> 00:01:12,831
+Nia: So only true, realised profits can ever go out as dividends.
+
+14
+00:01:16,331 --> 00:01:23,471
+Professor Lex: A company can still reduce its capital, under strict control, and only if its articles don't forbid it.
+
+15
+00:01:23,521 --> 00:01:33,210
+Professor Lex: Typical reasons: capital lost through trading losses, cancelling unpaid liability on shares, or returning surplus capital to members.
+
+16
+00:01:33,360 --> 00:01:44,255
+Professor Lex: A private company can pass a special resolution, backed by a solvency statement. Every director states the company can pay its debts for the next twelve months.
+
+17
+00:01:44,305 --> 00:01:47,326
+Professor Lex: A false statement is a criminal offence.
+
+18
+00:01:47,476 --> 00:01:57,782
+Professor Lex: Any company, and every public company, can instead pass a special resolution confirmed by the court. The court protects creditors, who may object.
+
+19
+00:01:57,832 --> 00:02:07,411
+Professor Lex: And if a public company's capital drops below fifty thousand pounds, it must re-register as private, unless the court allows otherwise.
+
+20
+00:02:10,911 --> 00:02:14,066
+Professor Lex: Capital maintenance has other guards too.
+
+21
+00:02:14,116 --> 00:02:25,986
+Professor Lex: A company buying back or redeeming its own shares must generally use distributable profits, or a fresh share issue, and keep the buffer up through the capital redemption reserve.
+
+22
+00:02:25,986 --> 00:02:34,000
+Professor Lex: A public company may not give financial assistance for someone to buy its own shares, such as lending them the money.
+
+23
+00:02:34,000 --> 00:02:44,634
+Professor Lex: And if a public company's net assets fall to half or less of its called-up share capital, the directors must call a general meeting within twenty-eight days.
+
+24
+00:02:44,784 --> 00:02:47,718
+The Auditor: That last one is called a serious loss of capital.
+
+25
+00:02:51,218 --> 00:02:56,034
+Professor Lex: Dividends can only be paid from profits available for the purpose.
+
+26
+00:02:56,084 --> 00:03:08,275
+Professor Lex: For any company, that means accumulated realised profits, less accumulated realised losses. Past years count, and there is no difference between capital and revenue profits.
+
+27
+00:03:08,425 --> 00:03:20,895
+Professor Lex: A public company must also pass a net assets test. After the dividend, its net assets must not fall below its called-up share capital plus undistributable reserves.
+
+28
+00:03:21,045 --> 00:03:28,478
+Professor Lex: So unrealised losses, which a private company can ignore, can still block a public company's dividend.
+
+29
+00:03:28,628 --> 00:03:38,583
+Nia: Safari Solar's realised profits are two hundred thousand, and last year's realised loss was eighty thousand. So we can pay up to one hundred and twenty thousand.
+
+30
+00:03:42,083 --> 00:03:54,229
+Professor Lex: Under the model articles, members declare a final dividend by ordinary resolution, but never more than the directors recommend. Directors may pay interim dividends.
+
+31
+00:03:54,279 --> 00:03:58,760
+Professor Lex: Once declared, a dividend becomes a debt owed to the member.
+
+32
+00:03:58,910 --> 00:04:07,215
+Professor Lex: If a dividend is unlawful, a member who knew, or had reasonable grounds to believe, it was unlawful must repay it.
+
+33
+00:04:07,265 --> 00:04:14,380
+Professor Lex: And directors who authorised it can be personally liable to repay the company, as in Flitcroft's case.
+
+34
+00:04:14,530 --> 00:04:18,152
+Kito: Then we'll pay a modest, lawful dividend, and keep the bank happy.
+
+35
+00:04:22,052 --> 00:04:25,649
+The Auditor: Quick check. A private company may pay dividends out of what?
+
+36
+00:04:30,699 --> 00:04:35,014
+The Auditor: Accumulated realised profits, less accumulated realised losses.
+
+37
+00:04:38,964 --> 00:04:43,129
+The Auditor: And how can a private company reduce its capital without going to court?
+
+38
+00:04:47,179 --> 00:04:50,980
+The Auditor: By special resolution, supported by a solvency statement.
+
+39
+00:04:54,530 --> 00:04:56,549
+Nia: Capital is the creditors' buffer.
+
+40
+00:04:56,599 --> 00:04:58,930
+Nia: Undistributable reserves stay put.
+
+41
+00:04:58,980 --> 00:05:01,572
+Nia: Reduction: solvency statement or court.
+
+42
+00:05:01,622 --> 00:05:03,992
+Nia: Dividends from net realised profits.
+
+43
+00:05:04,042 --> 00:05:06,726
+Nia: Public companies: net assets test too.
+
+44
+00:05:06,776 --> 00:05:11,356
+Professor Lex: Next time, we meet the people who run the company: its directors.
+
+45
+00:05:11,406 --> 00:05:13,899
+Nia: Kito, are you sure you're ready to be a director?
+
+46
+00:05:13,949 --> 00:05:15,192
+Kito: How hard can it be?
+
+47
+00:05:15,542 --> 00:05:18,680
+Narrator: Next time: Episode 21. The Boardroom.
+
