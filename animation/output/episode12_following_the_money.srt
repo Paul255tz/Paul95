@@ -1,0 +1,196 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:06,621
+Narrator: Episode 12. Following the Money
+
+3
+00:00:10,321 --> 00:00:15,436
+Kito: A new buyer in Dubai wants five hundred kits. I've never met them. What if they never pay?
+
+4
+00:00:15,586 --> 00:00:21,040
+Amara: And they're worried you'll take the money and never ship. Banks exist to solve exactly that problem.
+
+5
+00:00:21,190 --> 00:00:30,598
+Professor Lex: Today: how money moves between banks, how a letter of credit builds trust, and why a letter of comfort may give less comfort than it sounds.
+
+6
+00:00:33,898 --> 00:00:37,057
+Amara: A cross-border transfer is a chain of payment orders.
+
+7
+00:00:37,107 --> 00:00:40,730
+Amara: The buyer, called the originator, instructs its own bank.
+
+8
+00:00:40,730 --> 00:00:47,760
+Amara: That bank sends a payment order, usually by a secure message network like SWIFT, often through an intermediary bank.
+
+9
+00:00:47,760 --> 00:00:51,918
+Amara: Finally, the beneficiary's bank credits SafariTech, the beneficiary.
+
+10
+00:00:52,068 --> 00:00:59,800
+Amara: Within Africa, regional systems help too, like the East African Payment System, and the Pan-African Payment and Settlement System.
+
+11
+00:00:59,850 --> 00:01:05,131
+Nia: So each link in the chain is a separate payment order, from a sender to a receiving bank.
+
+12
+00:01:08,631 --> 00:01:20,148
+Professor Lex: UNCITRAL's Model Law on International Credit Transfers, from 1992, applies where a sending bank and its receiving bank are in different states.
+
+13
+00:01:20,198 --> 00:01:25,532
+Professor Lex: A sender must pay the receiving bank once that bank accepts its payment order.
+
+14
+00:01:25,532 --> 00:01:31,870
+Professor Lex: A receiving bank that accepts must execute the order, normally on the day it is received.
+
+15
+00:01:31,870 --> 00:01:41,058
+Professor Lex: If the transfer is not completed, there is a money-back guarantee. The originator's bank must refund the originator, with interest.
+
+16
+00:01:41,058 --> 00:01:44,740
+Professor Lex: A bank that delays must pay interest for the delay.
+
+17
+00:01:44,740 --> 00:01:53,630
+Professor Lex: And the transfer is completed when the beneficiary's bank accepts the payment order for the beneficiary. That is when the debt is paid.
+
+18
+00:01:53,780 --> 00:01:59,118
+Kito: So once my bank in Dar accepts the order, the buyer has paid me, even before I see the money!
+
+19
+00:02:02,619 --> 00:02:10,556
+Amara: For a new buyer, a documentary letter of credit is the classic answer. The seller gets paid promptly, and the buyer can still get credit.
+
+20
+00:02:10,606 --> 00:02:16,252
+Amara: One. The buyer asks its bank, the issuing bank, to open a credit in favour of SafariTech.
+
+21
+00:02:16,252 --> 00:02:25,180
+Amara: Two. The issuing bank undertakes to pay against the stated documents, and asks a bank in the seller's country, the advising bank, to notify the seller.
+
+22
+00:02:25,180 --> 00:02:31,663
+Amara: Three. SafariTech ships, and presents the documents, like the bill of lading and invoice, to the advising bank.
+
+23
+00:02:31,663 --> 00:02:37,701
+Amara: Four. The advising bank checks the documents, pays SafariTech, and sends them on to the issuing bank.
+
+24
+00:02:37,701 --> 00:02:46,191
+Amara: Five. The issuing bank checks them, reimburses the advising bank, debits the buyer, and releases the documents, so the buyer can collect the goods.
+
+25
+00:02:46,341 --> 00:02:50,283
+Nia: So nobody hands over goods or money until the paperwork is right.
+
+26
+00:02:53,783 --> 00:03:01,274
+Professor Lex: Most letters of credit follow the ICC's Uniform Customs and Practice, UCP 600.
+
+27
+00:03:01,324 --> 00:03:07,615
+Professor Lex: Autonomy. The credit is separate from the sale contract. Banks deal in documents, not goods.
+
+28
+00:03:07,615 --> 00:03:15,420
+Professor Lex: Strict compliance. The documents must match the credit's terms on their face. A small mismatch can mean no payment.
+
+29
+00:03:15,420 --> 00:03:25,510
+Professor Lex: Irrevocable. The buyer cannot change or cancel the credit without the seller's agreement. Under UCP 600, every credit is irrevocable.
+
+30
+00:03:25,510 --> 00:03:36,181
+Professor Lex: Confirmed. If the advising bank adds its own promise to pay, the seller has two banks behind it. Unconfirmed, it relies on the issuing bank alone.
+
+31
+00:03:36,181 --> 00:03:44,414
+Professor Lex: And there is a narrow fraud exception. A bank need not pay a beneficiary who presents documents it knows are fraudulent.
+
+32
+00:03:44,564 --> 00:03:48,284
+Amara: For an unknown buyer, I'd always advise a confirmed credit.
+
+33
+00:03:51,784 --> 00:03:57,120
+Amara: Sometimes a lender to a subsidiary only gets a letter of comfort from the parent company.
+
+34
+00:03:57,170 --> 00:04:07,828
+Professor Lex: A letter of comfort usually says the parent intends to support its subsidiary. But it is normally a statement of present policy, not a binding promise.
+
+35
+00:04:07,878 --> 00:04:20,096
+Professor Lex: In Kleinwort Benson against Malaysia Mining Corporation, the parent wrote that its policy was to ensure its subsidiary was always in a position to meet its liabilities.
+
+36
+00:04:20,146 --> 00:04:31,163
+Professor Lex: When the subsidiary collapsed, the bank sued the parent. The Court of Appeal held the letter was only a statement of policy, not a contractual promise. The bank lost.
+
+37
+00:04:32,513 --> 00:04:37,622
+Professor Lex: So if you need the parent to be liable, ask for a guarantee, not comfort.
+
+38
+00:04:41,522 --> 00:04:45,333
+The Auditor: Quick check. Under the Model Law, when is a credit transfer completed?
+
+39
+00:04:50,383 --> 00:04:53,362
+The Auditor: When the beneficiary's bank accepts the payment order.
+
+40
+00:04:57,312 --> 00:04:59,747
+The Auditor: And what makes a letter of credit confirmed?
+
+41
+00:05:03,797 --> 00:05:06,784
+The Auditor: A second bank adds its own undertaking to pay.
+
+42
+00:05:10,334 --> 00:05:12,660
+Nia: Transfers are a chain of payment orders.
+
+43
+00:05:12,710 --> 00:05:15,415
+Nia: Model Law: execute, refund, interest.
+
+44
+00:05:15,465 --> 00:05:18,056
+Nia: Completed when the beneficiary's bank accepts.
+
+45
+00:05:18,106 --> 00:05:21,256
+Nia: Letters of credit: autonomy, strict compliance.
+
+46
+00:05:21,306 --> 00:05:23,339
+Nia: Letters of comfort rarely bind.
+
+47
+00:05:23,389 --> 00:05:29,829
+Professor Lex: That finishes international trade. Next, we look at the people who act for a business: agents.
+
+48
+00:05:29,879 --> 00:05:33,172
+Kito: Good, because I want an agent to sell my kits in Kampala!
+
+49
+00:05:33,522 --> 00:05:37,288
+Narrator: Next time: Episode 13. The Agent's Authority.
+

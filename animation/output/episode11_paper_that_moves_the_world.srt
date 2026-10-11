@@ -1,0 +1,220 @@
+1
+00:00:02,900 --> 00:00:04,290
+Narrator: The Law Behind the Deal.
+
+2
+00:00:04,290 --> 00:00:07,149
+Narrator: Episode 11. Paper That Moves the World
+
+3
+00:00:11,049 --> 00:00:17,084
+Captain Cargo: Two hundred SafariTech kits, loaded and sailing for Dubai. Here's your bill of lading, Kito!
+
+4
+00:00:17,235 --> 00:00:18,777
+Kito: It's just a receipt, isn't it?
+
+5
+00:00:18,927 --> 00:00:24,640
+Amara: Oh, it's much more than that. With the right bill of lading, whoever holds the paper can claim the goods.
+
+6
+00:00:24,690 --> 00:00:28,756
+Professor Lex: Let's see why traders, and banks, care so much about it.
+
+7
+00:00:32,056 --> 00:00:38,411
+Professor Lex: A bill of lading is issued by the carrier, or its agent, to the shipper. It does three jobs.
+
+8
+00:00:38,461 --> 00:00:49,379
+Professor Lex: It is a receipt, confirming the carrier has received the goods, in the quantity and apparent condition stated, and usually that they are on board a named vessel.
+
+9
+00:00:49,379 --> 00:00:54,241
+Professor Lex: It is evidence of the contract of carriage between shipper and carrier.
+
+10
+00:00:54,241 --> 00:01:01,244
+Professor Lex: And it is a document of title. Transferring a negotiable bill transfers the right to the goods.
+
+11
+00:01:01,394 --> 00:01:10,089
+Professor Lex: It also shows when the goods were handed to the carrier, which often marks when risk passes, unless the contract says otherwise.
+
+12
+00:01:10,239 --> 00:01:16,808
+Nia: And a clean bill means no defects were noted. A claused bill records damage, and banks don't like those.
+
+13
+00:01:20,308 --> 00:01:22,654
+Professor Lex: Bills come in several kinds.
+
+14
+00:01:22,704 --> 00:01:30,625
+Professor Lex: A negotiable bill is made out to order. The holder endorses and hands it on, and the right to the goods goes with it.
+
+15
+00:01:30,625 --> 00:01:37,565
+Professor Lex: A non-negotiable, or straight, bill names the consignee. The carrier delivers only to that person.
+
+16
+00:01:37,565 --> 00:01:42,530
+Professor Lex: An inland bill covers carriage over land to the port of departure.
+
+17
+00:01:42,530 --> 00:01:46,769
+Professor Lex: An ocean bill covers the sea voyage, from port to port.
+
+18
+00:01:46,769 --> 00:01:52,104
+Professor Lex: A through bill combines both, from the factory all the way to the foreign port.
+
+19
+00:01:52,104 --> 00:01:59,766
+Professor Lex: And an air waybill covers carriage by air. It is always non-negotiable, so it is not a document of title.
+
+20
+00:01:59,916 --> 00:02:05,017
+Captain Cargo: For Dubai, Kito chose a through bill, from Arusha by rail, then by sea with me!
+
+21
+00:02:08,517 --> 00:02:12,118
+Amara: Now, how does the money move? Often with a bill of exchange.
+
+22
+00:02:12,168 --> 00:02:20,558
+Professor Lex: A bill of exchange is an unconditional order in writing, addressed by one person, the drawer, to another, the drawee.
+
+23
+00:02:20,558 --> 00:02:30,252
+Professor Lex: It is signed by the drawer, and requires the drawee to pay a sum certain in money, on demand, or at a fixed or determinable future time.
+
+24
+00:02:30,252 --> 00:02:36,265
+Professor Lex: Payment goes to, or to the order of, a specified person, the payee, or to the bearer.
+
+25
+00:02:36,415 --> 00:02:43,607
+Professor Lex: A promissory note is similar, but it is a promise by the maker to pay, rather than an order to someone else.
+
+26
+00:02:43,757 --> 00:02:48,824
+Kito: So the bill says: Dubai buyer, pay SafariTech fifty thousand dollars in ninety days.
+
+27
+00:02:52,323 --> 00:03:04,031
+Professor Lex: UNCITRAL's Convention on International Bills of Exchange and International Promissory Notes, of 1988, offers an optional global regime.
+
+28
+00:03:04,081 --> 00:03:11,541
+Professor Lex: The instrument must be headed, and say in its text, International bill of exchange, UNCITRAL Convention.
+
+29
+00:03:11,541 --> 00:03:22,283
+Professor Lex: It must name at least two of five places: where it was drawn, next to the drawer's signature, next to the drawee's name, next to the payee's name, and the place of payment.
+
+30
+00:03:22,283 --> 00:03:26,095
+Professor Lex: And at least two of those places must be in different states.
+
+31
+00:03:26,245 --> 00:03:39,783
+Professor Lex: A reality check: it needs ten states to come into force, and so far only five have joined. In practice, national laws on bills still govern. But the exam tests the Convention's rules.
+
+32
+00:03:43,283 --> 00:03:49,506
+Professor Lex: Follow the bill. SafariTech, as drawer, draws it on the Dubai buyer's bank, the drawee.
+
+33
+00:03:49,556 --> 00:03:55,670
+Professor Lex: The drawee signs it as accepted, and becomes the acceptor, primarily liable to pay.
+
+34
+00:03:55,720 --> 00:04:05,532
+Professor Lex: The bill goes to the payee. If the payee wants cash now, it can endorse the bill to its own creditor, the indorsee, who can endorse it again.
+
+35
+00:04:05,582 --> 00:04:15,742
+Professor Lex: An endorsement can name the next holder, or be signed in blank. A bill endorsed in blank becomes a bearer bill, and passes by simple delivery.
+
+36
+00:04:15,792 --> 00:04:21,082
+Professor Lex: And a guarantor can sign to guarantee payment, usually by the acceptor.
+
+37
+00:04:21,232 --> 00:04:26,403
+Amara: That's how our bank can buy the bill today at a discount, and collect in full in ninety days.
+
+38
+00:04:29,903 --> 00:04:31,832
+Kito: And if the acceptor refuses to pay?
+
+39
+00:04:31,882 --> 00:04:40,976
+Professor Lex: Then the bill is dishonoured. The holder can claim against everyone who signed before it: the drawer, every indorser, and any guarantor.
+
+40
+00:04:41,026 --> 00:04:49,027
+Professor Lex: They are jointly and severally liable, so the holder can pick any of them. Whoever pays can then claim back up the chain.
+
+41
+00:04:49,077 --> 00:04:59,428
+Professor Lex: Under the Convention, a protected holder, who took the bill complete, in good faith, and without notice of any problem, takes it free from most defences.
+
+42
+00:04:59,578 --> 00:05:03,271
+Nia: So every signature on the bill is like another promise to pay.
+
+43
+00:05:07,171 --> 00:05:10,683
+The Auditor: Quick check. Which of these is not a function of a bill of lading?
+
+44
+00:05:15,733 --> 00:05:18,012
+The Auditor: A guarantee that the buyer will pay.
+
+45
+00:05:18,162 --> 00:05:22,542
+Professor Lex: Receipt · evidence of carriage contract · document of title
+
+46
+00:05:26,492 --> 00:05:31,179
+The Auditor: And if a payee endorses a bill without naming anyone, what has it created?
+
+47
+00:05:35,229 --> 00:05:37,838
+The Auditor: A bearer bill, which passes by delivery.
+
+48
+00:05:41,387 --> 00:05:44,724
+Nia: Bill of lading: receipt, contract evidence, title.
+
+49
+00:05:44,774 --> 00:05:48,214
+Nia: Negotiable or straight; inland, ocean, through, air.
+
+50
+00:05:48,264 --> 00:05:51,263
+Nia: Bill of exchange: unconditional written order.
+
+51
+00:05:51,313 --> 00:05:54,174
+Nia: International: two places in different states.
+
+52
+00:05:54,224 --> 00:05:56,620
+Nia: Dishonour: every signer is liable.
+
+53
+00:05:56,670 --> 00:06:03,358
+Professor Lex: Next time: bank transfers across borders, letters of credit, and the curious letter of comfort.
+
+54
+00:06:03,408 --> 00:06:06,498
+Amara: My favourite episode. It's all about banks!
+
+55
+00:06:06,848 --> 00:06:10,017
+Narrator: Next time: Episode 12. Following the Money.
+
