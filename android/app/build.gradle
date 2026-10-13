@@ -1,0 +1,42 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.paulmndeme.app"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.paulmndeme.app"
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    androidResources {
+        // Videos are served with byte ranges straight from the APK, so keep them uncompressed.
+        noCompress += "mp4"
+    }
+
+    sourceSets {
+        main.assets.srcDirs += layout.buildDirectory.dir("siteAssets")
+    }
+}
+
+// Bundle the website (index.html + episode videos) from the repo root into the app.
+def copySite = tasks.register("copySite", Sync) {
+    from(rootProject.file("..")) {
+        include "index.html"
+        include "animation/output/*.mp4"
+        include "animation3d/output/*.mp4"
+    }
+    into layout.buildDirectory.dir("siteAssets/site")
+}
+
+tasks.named("preBuild") { dependsOn copySite }
