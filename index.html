@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paul Mndeme</title>
+<meta name="description" content="Paul Mndeme: creator of The Law Behind the Deal, an animated series that teaches business law.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fbf8f3;
+    --surface: #ffffff;
+    --text: #1d1b19;
+    --muted: #5f5a54;
+    --line: #e7e0d6;
+    --accent: #d9661f;
+    --accent-soft: #fbe8db;
+    --accent-2: #1f7a6d;
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #151413;
+      --surface: #1f1d1b;
+      --text: #f2eee9;
+      --muted: #aaa39b;
+      --line: #34302c;
+      --accent: #f08a45;
+      --accent-soft: #3a2619;
+      --accent-2: #4fb8a8;
+      --shadow: none;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #151413;
+    --surface: #1f1d1b;
+    --text: #f2eee9;
+    --muted: #aaa39b;
+    --line: #34302c;
+    --accent: #f08a45;
+    --accent-soft: #3a2619;
+    --accent-2: #4fb8a8;
+    --shadow: none;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 17px/1.65 "Nunito", system-ui, sans-serif;
+  }
+  h1, h2, h3 { font-family: "Fredoka", "Nunito", sans-serif; font-weight: 600; line-height: 1.15; margin: 0; }
+  a { color: var(--accent); }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 16px; }
+
+  nav {
+    position: sticky; top: 0; z-index: 10;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+  }
+  nav .wrap { display: flex; align-items: center; justify-content: space-between; height: 56px; }
+  nav .brand { font-family: "Fredoka", sans-serif; font-weight: 600; font-size: 20px; color: var(--text); text-decoration: none; }
+  nav ul { display: flex; gap: 20px; list-style: none; margin: 0; padding: 0; }
+  nav ul a { color: var(--muted); text-decoration: none; font-weight: 600; font-size: 15px; }
+  nav ul a:hover { color: var(--text); }
+
+  header.hero { padding: 88px 0 72px; }
+  .hero .eyebrow { color: var(--accent-2); font-weight: 700; letter-spacing: .04em; font-size: 14px; text-transform: uppercase; }
+  .hero h1 { font-size: clamp(40px, 7vw, 68px); margin: 12px 0 20px; }
+  .hero h1 span { color: var(--accent); }
+  .hero p { font-size: 20px; color: var(--muted); max-width: 620px; margin: 0 0 32px; }
+  .btns { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn {
+    display: inline-block; padding: 12px 22px; border-radius: 999px;
+    font-weight: 700; text-decoration: none; border: 2px solid var(--accent);
+  }
+  .btn.primary { background: var(--accent); color: #fff; }
+  .btn.ghost { color: var(--accent); }
+
+  section { padding: 64px 0; border-top: 1px solid var(--line); }
+  section h2 { font-size: 34px; margin-bottom: 20px; }
+  .lead { color: var(--muted); max-width: 680px; margin: 0 0 28px; }
+
+  .about-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 40px; align-items: start; }
+  .facts { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 24px; box-shadow: var(--shadow); }
+  .facts dl { margin: 0; display: grid; gap: 14px; }
+  .facts dt { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 700; }
+  .facts dd { margin: 2px 0 0; font-weight: 600; }
+
+  .project { background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 28px; box-shadow: var(--shadow); }
+  .project h3 { font-size: 26px; }
+  .project .sub { color: var(--muted); margin: 6px 0 22px; }
+  .tabs { display: inline-flex; background: var(--accent-soft); border-radius: 999px; padding: 4px; margin-bottom: 16px; }
+  .tabs button {
+    border: 0; background: transparent; color: var(--text); font: 700 15px "Nunito", sans-serif;
+    padding: 8px 18px; border-radius: 999px; cursor: pointer;
+  }
+  .tabs button[aria-selected="true"] { background: var(--accent); color: #fff; }
+  video { width: 100%; aspect-ratio: 16 / 9; border-radius: 12px; background: #000; display: block; }
+
+  .topics { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; margin-top: 24px; }
+  .topic { border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  .topic b { display: block; font-family: "Fredoka", sans-serif; font-weight: 500; }
+  .topic span { color: var(--muted); font-size: 15px; }
+
+  .cast { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+  .chip { background: var(--accent-soft); border-radius: 999px; padding: 6px 14px; font-size: 15px; font-weight: 600; }
+
+  .skills { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; }
+  .skill { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 20px; box-shadow: var(--shadow); }
+  .skill .icon { font-size: 26px; }
+  .skill h3 { font-size: 19px; margin: 8px 0 6px; }
+  .skill p { margin: 0; color: var(--muted); font-size: 15px; }
+
+  .contact { text-align: center; }
+  .contact .lead { margin-left: auto; margin-right: auto; }
+  .contact .btns { justify-content: center; }
+
+  footer { padding: 32px 0 48px; color: var(--muted); font-size: 14px; text-align: center; border-top: 1px solid var(--line); }
+
+  @media (max-width: 720px) {
+    nav ul { gap: 14px; }
+    nav ul li.hide-sm { display: none; }
+    header.hero { padding: 56px 0 48px; }
+    .about-grid { grid-template-columns: 1fr; gap: 24px; }
+    .project { padding: 18px; }
+    section { padding: 48px 0; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="#top">Paul.</a>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#work">Work</a></li>
+      <li class="hide-sm"><a href="#skills">Skills</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap">
+    <div class="eyebrow">Hi, I'm</div>
+    <h1>Paul <span>Mndeme</span></h1>
+    <p>I make business law easier to learn. My animated series, <em>The Law Behind the Deal</em>, uses cartoon characters, real voices and short stories to explain the rules behind every deal.</p>
+    <div class="btns">
+      <a class="btn primary" href="#work">Watch Episode 1</a>
+      <a class="btn ghost" href="#contact">Get in touch</a>
+    </div>
+  </div>
+</header>
+
+<section id="about">
+  <div class="wrap about-grid">
+    <div>
+      <h2>About me</h2>
+      <p>I care about making hard subjects simple. Law textbooks can feel dry, so I turn the key ideas into stories: a young analyst, a startup founder, a wise professor and a talking shipping container working through real business problems together.</p>
+      <p>My current project follows the ACCA Corporate and Business Law (LW-GLO) syllabus. Each episode takes one big topic and explains it in about five minutes, in both 2D and 3D.</p>
+    </div>
+    <div class="facts">
+      <dl>
+        <div><dt>Focus</dt><dd>Business law education</dd></div>
+        <div><dt>Current project</dt><dd>The Law Behind the Deal</dd></div>
+        <div><dt>Tools</dt><dd>Python, three.js, neural text-to-speech</dd></div>
+        <div><dt>GitHub</dt><dd><a href="https://github.com/paul255tz">@paul255tz</a></dd></div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section id="work">
+  <div class="wrap">
+    <h2>My work</h2>
+    <p class="lead">An animated series that teaches the law behind international business.</p>
+
+    <div class="project">
+      <h3>The Law Behind the Deal</h3>
+      <p class="sub">Episode 1: “Who Makes the Rules?” · about 4 min 46 s · English subtitles</p>
+
+      <div class="tabs" role="tablist">
+        <button role="tab" aria-selected="true" data-src="animation/output/episode1_who_makes_the_rules.mp4">2D version</button>
+        <button role="tab" aria-selected="false" data-src="animation3d/output/episode1_who_makes_the_rules_3d.mp4">3D version</button>
+      </div>
+      <video id="player" controls preload="metadata" src="animation/output/episode1_who_makes_the_rules.mp4"></video>
+
+      <div class="topics">
+        <div class="topic"><b>Civil vs criminal</b><span>Two kinds of cases and their standards of proof</span></div>
+        <div class="topic"><b>The three branches</b><span>Legislature, executive, judiciary</span></div>
+        <div class="topic"><b>Precedent in action</b><span>Ratio, obiter and binding precedent</span></div>
+        <div class="topic"><b>When money isn't enough</b><span>Specific performance, injunctions and more</span></div>
+        <div class="topic"><b>The world of trade</b><span>UN, UNCITRAL, WTO, ICC, UNIDROIT, OECD</span></div>
+        <div class="topic"><b>Court or arbitration?</b><span>Courts, arbitration and mediation</span></div>
+      </div>
+
+      <div class="cast">
+        <span class="chip">Nia, junior analyst</span>
+        <span class="chip">Kito, SafariTech founder</span>
+        <span class="chip">Professor Lex</span>
+        <span class="chip">Captain Cargo</span>
+        <span class="chip">The Auditor</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="wrap">
+    <h2>What I do</h2>
+    <div class="skills">
+      <div class="skill"><div class="icon">✍️</div><h3>Storytelling</h3><p>Turning syllabus topics into short scripts with memorable characters.</p></div>
+      <div class="skill"><div class="icon">🎬</div><h3>2D animation</h3><p>Cartoon scenes with lip-synced characters and generated music.</p></div>
+      <div class="skill"><div class="icon">🧊</div><h3>3D animation</h3><p>Rigged characters, moving cameras and real-time lighting in three.js.</p></div>
+      <div class="skill"><div class="icon">⚖️</div><h3>Business law</h3><p>Legal systems, contracts, remedies and international trade.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <h2>Let's talk</h2>
+    <p class="lead">Want to use the series in a class, work together on a new episode, or just say hello? Find me on GitHub.</p>
+    <div class="btns">
+      <a class="btn primary" href="https://github.com/paul255tz">GitHub: paul255tz</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">© <span id="year">2026</span> Paul Mndeme</div>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  const player = document.getElementById('player');
+  document.querySelectorAll('.tabs button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', b === btn));
+      player.src = btn.dataset.src;
+      player.load();
+    });
+  });
+</script>
+</body>
+</html>
